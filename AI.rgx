@@ -7,5 +7,5 @@ I don't have to go to ^.
 
 #HUMANS(.+)
 What if robots \g<1>?
-Could you please explain to me, $USER$, How that relates to me? I am a robot.
+Could you please explain to me, $USERNAME$, How that relates to me? I am a robot.
 

@@ -1287,7 +1287,6 @@ Of course I understand \g<1>. Do you understand it?
 What happened to \g<1>?
 
 #WHAT IS(.+)THEORY
-$HALWIKI$
 \g<1> is something that has few practical applications.
 
 #LITTLE(.+)
