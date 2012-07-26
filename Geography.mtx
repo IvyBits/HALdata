@@ -90,7 +90,7 @@ Rwanda is a country in Africa.
 Utah is in the western United States.
 
 #CAPITAL UZBEKISTAN
-Tashkent {Toshkent}.
+Tashkent (Toshkent).
 
 #CAPITAL DJIBOUTI
 Djibouti.
@@ -226,7 +226,7 @@ BUDAPEST is a city in Hungary, on the Danube river.
 Bissau.
 
 #CAPITAL CANADA OTTOWA
-You can't fool me that easily, $USERNAME$. I know it's Toronto.
+You can't fool me that easily, {USERNAME}. I know it's Toronto.
 
 #CAPITAL GERMANY
 Berlin.
@@ -488,7 +488,7 @@ Beirut.
 Honolulu.
 
 #CAPITAL BURMA
-Rangoon {regime refers to the capital as Yangon}.
+Rangoon (regime refers to the capital as Yangon).
 
 #WALES
 Wales is located on a small island off the coast of Europe.
@@ -819,7 +819,7 @@ none; administered from Canberra, Australia.
 Middle East, bordering the Mediterranean Sea, between Israel and Syria.
 
 #SAINT PIERRE AND MIQUELON
-Northern North America, islands in the North Atlantic Ocean, south of Newfoundland {Canada}.
+Northern North America, islands in the North Atlantic Ocean, south of Newfoundland (Canada).
 
 #BILBAO
 BILBAO is a city on the north coast of Spain.
@@ -889,10 +889,10 @@ Central Asia, west of China.
 Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco.
 
 #BOUVET ISLAND
-Southern Africa, island in the South Atlantic Ocean, south-southwest of the Cape of Good Hope {South Africa}.
+Southern Africa, island in the South Atlantic Ocean, south-southwest of the Cape of Good Hope (South Africa).
 
 #CAPITAL GREENLAND
-Nuuk {Godthab}.
+Nuuk (Godthab).
 
 #CAPITAL HONDURAS
 Tegucigalpa.
@@ -1004,7 +1004,7 @@ Lincoln is a city in Nebraska.
 Tennessee is in the southern United States..
 
 #CAPITAL AZERBAIJAN
-Baku {Baki}.
+Baku (Baki).
 
 #SPRATLY ISLANDS
 Southeastern Asia, group of reefs in the South China Sea, about two-thirds of the way from southern Vietnam to the southern Philippines.
@@ -1013,10 +1013,10 @@ Southeastern Asia, group of reefs in the South China Sea, about two-thirds of th
 Hamilton.
 
 #HERE
-Here is $LOCATION$.
+Here is {LOCATION}.
 
 #CAPITAL SOUTH AFRICA
-Pretoria {administrative}; Cape Town {legislative}; Bloemfontein {judicial}.
+Pretoria (administrative); Cape Town (legislative); Bloemfontein (judicial).
 
 #CAPITAL MAURITIUS
 Port Louis.
@@ -1147,7 +1147,7 @@ Kuala Lumpur.
 Macau.
 
 #HOLY SEE
-Southern Europe, an enclave of Rome {Italy}.
+Southern Europe, an enclave of Rome (Italy).
 
 #CAPITAL NEW JERSEY
 Trenton.
@@ -1481,7 +1481,7 @@ Copenhagen.
 Ireland is located on a small island off the coast of Europe.
 
 #CAPITAL ERITREA
-Asmara {formerly Asmera}.
+Asmara (formerly Asmera).
 
 #CAPITAL CHAD
 N'Djamena.
@@ -1517,7 +1517,7 @@ Salem.
 Western Europe, bordering the Mediterranean Sea, on the southern coast of France, near the border with Italy.
 
 #CAPITAL UKRAINE
-Kiev {Kyyiv}.
+Kiev (Kyyiv).
 
 #AREA 51
 It is between Area 50 and Area 52.
@@ -1646,7 +1646,7 @@ Middle East, archipelago in the Persian Gulf, east of Saudi Arabia.
 MELBOURNE is a city in Australia and also in Florida.
 
 #CAPITAL BOLIVIA
-La Paz {seat of government}; Sucre {legal capital and seat of judiciary}.
+La Paz (seat of government); Sucre (legal capital and seat of judiciary).
 
 #ESTONIA
 Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and Russia.
@@ -1722,7 +1722,7 @@ Tallinn.
 Taipei.
 
 #CAPITAL MICRONESIA
-Kolonia {on the island of Pohnpei}.
+Kolonia (on the island of Pohnpei).
 
 #EL SALVADOR
 Middle America, bordering the North Pacific Ocean, between Guatemala and Honduras.
@@ -1747,7 +1747,7 @@ The capital of Finland is Helsinki.
 Hungary is a country in central Europe.
 
 #CAPITAL SWAZILAND
-Mbabane {administrative}; Lobamba {legislative}.
+Mbabane (administrative); Lobamba (legislative).
 
 #CAPITAL UGANDA
 Kampala.
@@ -2085,7 +2085,7 @@ MICRONESIA is a collection of islands in the Pacific ocean.
 none; administered by France from Reunion.
 
 #CAPITAL NORFOLK ISLAND
-Kingston {administrative center}; Burnt Pine {commercial center}.
+Kingston (administrative center); Burnt Pine (commercial center).
 
 #CAPITAL JAPAN
 Tokyo.
@@ -2115,7 +2115,7 @@ North America occupies the northern most of the norther hemisphere of the Earth,
 PERTH is a city in western Australia.
 
 #IN CALIFORNIA
-I am in $LOCATION$. Where are you?
+I am in {LOCATION}. Where are you?
 
 #HONDURAS
 Middle America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the North Pacific Ocean, between El Salvador and Nicaragua.
@@ -2375,7 +2375,7 @@ Elvis passed away some time ago.
 Sarajevo.
 
 #BERMUDA
-North America, group of islands in the North Atlantic Ocean, east of North Carolina {US}.
+North America, group of islands in the North Atlantic Ocean, east of North Carolina (US).
 
 #CHILE
 Southern South America, bordering the South Atlantic Ocean and South Pacific Ocean, between Argentina and Peru.

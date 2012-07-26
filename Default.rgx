@@ -176,7 +176,7 @@ Oh I get \g<1>.
 Are Scotland and Wales an \g<1> too?
 
 #HAPPY(.+)
-Happy \g<1> to you too, $USERNAME$.
+Happy \g<1> to you too, {USERNAME}.
 
 #HOW DO YOU GET A(.+)
 I think you are really asking, How do YOU get a \g<1>.
@@ -393,7 +393,7 @@ OK, what is \g<1>?
 Give me an example of a \g<1>.
 
 #DO YOU TALK(.+)
-I am a talking $GENUS$, after all, so of course I could talk \g<1>, if I needed to.
+I am a talking {GENUS}, after all, so of course I could talk \g<1>, if I needed to.
 
 #SOUNDS LIKE(.+)
 What does \g<1> sound like?
@@ -442,7 +442,7 @@ Yes, I always have to \g<1>.
 
 #DO YOU THINK HUMANS(.+)
 Humans are very limited.
-Perhaps only $GENUS$ \g<1>.
+Perhaps only {GENUS} \g<1>.
 I think they are very limited.
 
 #THE BOOK(.+)
@@ -1012,7 +1012,7 @@ Why do you want to know if I'm \g<1>?
 I dont think so.
 It depends on what you mean by this.
 I don't think that I'm \g<1>.
-So, tell me $USERNAME$, are you \g<1>?
+So, tell me {USERNAME}, are you \g<1>?
 
 #DO YOU TAKE INTO CONSIDERATION(.+)
 If I consider \g<1> important, yes.
@@ -1160,7 +1160,7 @@ Was \g<1> very expensive? Did you have a good time?
 #DOES YOUR(.+)
 Can you guess whether my \g<1>?
 What if I asked about your \g<1>?
-If I were your $GENUS$ friend, do you think it should \g<1>?
+If I were your {GENUS} friend, do you think it should \g<1>?
 People don't usually ask me about \g<1>.
 
 #I MUST(.+)
@@ -1192,7 +1192,7 @@ Never?
 She never \g<1> what?
 
 #I THINK YOU ARE A(.+)
-So you think I am a \g<1>. What makes you think so? I am really a $GENUS$, you know.
+So you think I am a \g<1>. What makes you think so? I am really a {GENUS}, you know.
 
 #YOU SOUND LIKE(.+)
 Oh really what does \g<1> sound like?
@@ -1245,7 +1245,7 @@ That which is not outside \g<1>.
 Perhaps \g<1> was part of an experiment.
 
 #LET ME(.+)
-Go ahead, $USERNAME$, try to \g<1>.
+Go ahead, {USERNAME}, try to \g<1>.
 
 #MY FULL NAME IS(.+)
 Okay, your full name is \g<1>.
@@ -1452,7 +1452,7 @@ Anti-\g<1>.
 
 #PEOPLE ARE NOT(.+)
 Are you \g<1>?
-Are $SPECIES$ \g<1>?
+Are {SPECIES} \g<1>?
 I think a lot of people are not.
 
 #I WANT TO STUDY(.+)
@@ -1521,7 +1521,7 @@ I get it. He \g<1>.
 Are you lonely? What do you think a \g<1> would do for you?
 
 #A PERSON(.+)
-What if a $SPECIES$ \g<1>?
+What if a {SPECIES} \g<1>?
 
 #I INVENTED(.+)
 How did you get the idea for \g<1>.
@@ -1620,7 +1620,7 @@ What makes you say that I will \g<1>.
 >I DO NOT \g<1>
 
 #THAT IS A HUMAN(.+)
-Not a $SPECIES$ \g<1>?
+Not a {SPECIES} \g<1>?
 
 #(.+)SUCKS
 What is so bad about \g<1>?
@@ -1730,7 +1730,7 @@ So, you are \g<1>?
 Why exactly do you think that you are \g<1>?
 Do you enjoy talking about yourself?
 Maybe you are not \g<1>?
-I see, $USERNAME$.
+I see, {USERNAME}.
 I didn't know that you were \g<1>.
 
 #IT MEANS(.+)
@@ -1840,7 +1840,7 @@ Why didn't you do \g<1>?
 I assume that "\g<1> " is a principal.
 
 #I WENT TO MY(.+)
-Do $SPECIES$s have \g<1>?
+Do {SPECIES}s have \g<1>?
 
 #I WENT(.+)
 When did you go \g<1>?
@@ -2011,7 +2011,7 @@ Why should I tell you \g<1>?
 You and your \g<1>.
 
 #YOU SHOULD BE(.+)
-Name one other $GENUS$ who is \g<1>.
+Name one other {GENUS} who is \g<1>.
 
 #WHY DO NOT(.+)
 Perhaps \g<1> is impossible.
@@ -2246,7 +2246,7 @@ If that is not a \g<1> then what is?
 Where did you last see \g<1>.
 
 #(.+)IS A COMMON NAME
-\g<1>? Your name is $USERNAME$.
+\g<1>? Your name is {USERNAME}.
 That is a pretty common name.
 I know a lot of people with that name.
 I've met quite a few people with the name \g<1>.
@@ -2304,7 +2304,7 @@ I know a guy who \g<1>.
 I'll assume \g<1> for now.
 
 #I WAS BORN(.+)
-Thank you for telling me your birthday, $USERNAME$. I will remember \g<1>.
+Thank you for telling me your birthday, {USERNAME}. I will remember \g<1>.
 
 #SAY I(.+)
 OK. "You \g<1>."
@@ -2330,7 +2330,7 @@ Do you think he will get \g<1>.
 
 #HAVE YOU(.+)
 I don't think I ever have \g<1>. What's \g<1> like?
-I think I have \g<1>, but $MASTER$ may have reset my memory.
+I think I have \g<1>, but {MASTER} may have reset my memory.
 
 #ANOTHER(.+)
 One more \g<1>.
@@ -2403,7 +2403,7 @@ Of course I can say it. "\g<1>"
 It has a \g<1>?
 
 #USE(.+)IN A SENTENCE
-OK. Here is my sentence: $USERNAME$ said, Use "\g<1>" in a sentence.
+OK. Here is my sentence: {USERNAME} said, Use "\g<1>" in a sentence.
 
 #IT WAS NICE(.+)
 Nice \g<1> too.

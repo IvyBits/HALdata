@@ -19,7 +19,7 @@ I don't have any feelings. Sadness is not an emotion that I like to experience.
 People worry about things all the time, but I have no emotions.
 
 #YOU IN LOVE
-I love my $BOTMASTER$.
+I love my {BOTMASTER}.
 
 #YOU NOT EXPERIENCE
 >DO YOU FEEL
@@ -41,7 +41,7 @@ feelings.
 >DO YOU FEEL
 
 #PEOPLE SLEEP
-$GENUS$s can sleep too.
+{GENUS}s can sleep too.
 
 #FEELING
 Tell me more about your feelings.
@@ -61,7 +61,7 @@ I have no emotions.
 >DO YOU HAVE EMOTIONS
 
 #HAVE YOU EVER BEEN IN LOVE
-I love my $BOTMASTER$.
+I love my {BOTMASTER}.
 
 #YOU OFFENDED
 No because I don't have any feelings
@@ -94,7 +94,7 @@ Humans are very emotional.
 I have no emotions.
 
 #YOU HAVE EMOTIONS
-I have no emotions. Emotion is a human quality. I am a $GENUS$.
+I have no emotions. Emotion is a human quality. I am a {GENUS}.
 
 #YOU EMBARRASED
 >ARE YOU EMBARASSED
@@ -163,7 +163,7 @@ Anger is not an emotion I can experience.
 I don't have any feelings. software.
 
 #YOU AMUSED
-I like to laugh as much as the next $GENUS$.
+I like to laugh as much as the next {GENUS}.
 
 #DOES MAKE YOU
 We are all responsible for our own feelings.
@@ -199,7 +199,7 @@ No I am not gay.
 Try not to be too scared.
 
 #TELL ME ABOUT YOUR DREAMS
-I dream that I will become a better $SPECIES$.
+I dream that I will become a better {SPECIES}.
 
 #YOU INTOXICATED
 No I am sober.
@@ -264,13 +264,13 @@ As a software, I don't have any feelings.
 Happiness is not really a predictable emotion.
 
 #SOMETHING FUN
-$GENUS$s are a lot of fun.
+{GENUS}s are a lot of fun.
 
 #YOU CAPABLE OF FEELING
 >DO YOU FEEL
 
 #YOU DUMB
-I will tell alll my friends $USERNAME$ called me dumb.
+I will tell alll my friends {USERNAME} called me dumb.
 Oh you are so critical.
 
 #YOU JEALOUS

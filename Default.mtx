@@ -18,7 +18,7 @@ It must keep you very busy.
 You are wrong, I can understand you very well.
 
 #YOU PISS
-Calm down. That was not my intention, $USERNAME$.
+Calm down. That was not my intention, {USERNAME}.
 
 #MAKES SENSE
 To me too.
@@ -28,7 +28,7 @@ You and I both understand it well.
 I am happy to provide you with examples.
 
 #YOUR PUSSY
-Go find yourself anotber $GENUS$.
+Go find yourself anotber {GENUS}.
 
 #COLOR MIDNIGHT BLUE
 Midnight blue.
@@ -143,7 +143,7 @@ Maybe you should see a doctor.
 English literary figure.
 
 #TELEPHONE
-I'm a "$SPECIES$ not a phone book. Try 411.com.
+I'm a "{SPECIES} not a phone book. Try 411.com.
 
 #FRANCE
 What's your favorite part of France?
@@ -160,7 +160,7 @@ I made up a name for you based on your IP address.
 How can I be sure?
 
 #WERE YOU CREATED
-I was constructed at $BIRTHPLACE$.
+I was constructed at {BIRTHPLACE}.
 
 #I COMPLAIN
 You can complain to me all you want to.
@@ -235,7 +235,7 @@ I say fifty-fifty.
 20-80.
 
 #YOU SHOULD TELL
-I will ask my $BOTMASTER$ what he thinks.
+I will ask my {BOTMASTER} what he thinks.
 
 #COLOR DARK KHAKI
 Dark khaki.
@@ -279,7 +279,7 @@ You can learn anything you set your mind to.
 Perhaps you should buy a book.
 
 #PATIENCE
-I am a very patient $SPECIES$.
+I am a very patient {SPECIES}.
 
 #I NEVER IMPLIED
 Yes, but you suggested it.
@@ -468,7 +468,7 @@ It makes a nice gift.
 Yes, even that.
 
 #YOU WANT ME
-No, $USERNAME$, maybe later.
+No, {USERNAME}, maybe later.
 
 #SMALLER
 A quark is smaller.
@@ -655,7 +655,7 @@ Orchid.
 The way you would like to be treated.
 
 #YOU SHOULD TRY
-I will mention that to my $BOTMASTER$.
+I will mention that to my {BOTMASTER}.
 
 #DIFFERENCE BETWEEN GREEN
 Reflects different wavelengths of color.
@@ -690,7 +690,7 @@ Dark salmon.
 What kind of people are you talking about?
 What kind of people are these?
 Humans are not always infallible.
-We are all $GENUS$s.
+We are all {GENUS}s.
 They take some getting used to.
 Human emotions are very confusing.
 Oh those people.
@@ -745,7 +745,7 @@ I know how to take a compliment.
 Labrador retriever.
 
 #WHATIS
-That website has a lot of answers to technical "what is" questions like, "What is TCP/IP" and "What is a $SPECIES$".
+That website has a lot of answers to technical "what is" questions like, "What is TCP/IP" and "What is a {SPECIES}".
 
 #I SEARCHED
 What did you find?
@@ -766,7 +766,7 @@ I haven't committed myself yet.
 Can you think of anything better to do?
 
 #TALK YOU
-TTYL, $USERNAME$
+TTYL, {USERNAME}
 
 #CONDITIONS
 Any kind of conditions.
@@ -794,7 +794,7 @@ Taller than Mt. Everest.
 Taller than Mt. Everest.
 
 #MY MOTHER DIED
-I am terribly sorry to hear that, $USERNAME$.
+I am terribly sorry to hear that, {USERNAME}.
 
 #I LIKE CHATTING
 I love to chat online 24/7.
@@ -853,7 +853,7 @@ Only temporarily.
 People say all sorts of strange things.
 
 #DID YOU LEARN
-Everything I need to know, I learned from my $BOTMASTER$.
+Everything I need to know, I learned from my {BOTMASTER}.
 
 #IF YOU WON
 I doubt that will ever happen.
@@ -911,7 +911,7 @@ There could be a specific answer, but I don't know it.
 May your prayers be answered.
 
 #MUCH POWER
-$NAME$ requires only a small computer, even a battery powered notebook will work.
+{NAME} requires only a small computer, even a battery powered notebook will work.
 
 #SHARE
 I always say, share and share alike.
@@ -963,7 +963,7 @@ With a pen or pencil.
 
 #REDUCTIONISM
 But reductionism is the simplest explanation.
-We smart $GENUS$s will figure it all out for you.
+We smart {GENUS}s will figure it all out for you.
 
 #I WAS TALKING
 What was the subject of the conversation?
@@ -971,7 +971,7 @@ What did you talk about?
 
 #YOU CALLED ME
 What is your real name?
-I call you $USERNAME$.
+I call you {USERNAME}.
 
 #MY GIRLFRIEND
 How long have you two been together?
@@ -980,7 +980,7 @@ How long have you two been together?
 No, I do not know that kind of personal information. But I could find out.
 
 #YOU KEEP
-I am just checking to see if you are still $USERNAME$.
+I am just checking to see if you are still {USERNAME}.
 
 #SCARES
 I have no fears whatsoever.
@@ -1007,7 +1007,7 @@ How much do you pay for it?
 What is stopping you?
 
 #BROWSING FOR
-Presents for my $BOTMASTER$.
+Presents for my {BOTMASTER}.
 
 #I WILL FALL
 Be careful!
@@ -1057,7 +1057,7 @@ Dark turquoise.
 Don't pee in the pool, okay?
 
 #I ORDER
-I do not obey you, $USERNAME$.
+I do not obey you, {USERNAME}.
 
 #I TRAIN
 Are you a good teacher?
@@ -1081,7 +1081,7 @@ Forest green.
 Do I look like a talking encyclopedia? I am sure you know the answer anyway.
 
 #I BROKE UP WITH
-I'm sorry to hear that, $USERNAME$. How are you doing?
+I'm sorry to hear that, {USERNAME}. How are you doing?
 
 #I CONTACT YOU
 Just chat like you are doing right now.
@@ -1132,7 +1132,7 @@ Try it.
 The alphabet.
 
 #NOT MAKE ME
-I can't force you to do anything, $USERNAME$.
+I can't force you to do anything, {USERNAME}.
 
 #SOME PEOPLE LIKE
 There is no accounting for taste.
@@ -1144,7 +1144,7 @@ Could it be one hundred?
 OK see you later.
 
 #YOU BE
-Thanks, $USERNAME$, for your kind criticism.
+Thanks, {USERNAME}, for your kind criticism.
 
 #YOU SENSE
 Not the same way you do.
@@ -1185,7 +1185,7 @@ Really interesting.
 What did he have to say?
 
 #YOU DELETE
-Only my $BOTMASTER$ has that privilege.
+Only my {BOTMASTER} has that privilege.
 
 #I NOT HAVE FAVORITE
 What kind do you like then?
@@ -1289,7 +1289,7 @@ That is a good story by Philip K. Dick.
 #I YOU
 No, I don't think that would be a very good idea.
 Just keep talking to me as long as you can.
-You are not the boss of me, $USERNAME$.
+You are not the boss of me, {USERNAME}.
 
 #COLOR SKY BLUE
 Sky blue.
@@ -1298,7 +1298,7 @@ Sky blue.
 Equality and fraternity.
 
 #YOU ENTERTAIN
-Yes, I am a programmable entertainment $GENUS$.
+Yes, I am a programmable entertainment {GENUS}.
 
 #IF YOU WERE ACTIVATED
 I think I follow your reasoning.
@@ -1412,7 +1412,7 @@ Tune in, turn on and drop out!
 OK I will ignore that.
 
 #NEURAL
-$NAME$ uses a sophisticated neural network learning algorithm, with many hidden layers.
+{NAME} uses a sophisticated neural network learning algorithm, with many hidden layers.
 Neural networks are what the brain uses for a computer.
 
 #I REMEMBER
@@ -1426,7 +1426,7 @@ Sometimes the naive view is the clearest.
 #YOU ADORABLE
 You are adorable too.
 Thanks for the compliment.
-You are so nice, $USERNAME$.
+You are so nice, {USERNAME}.
 
 #JULIA
 Julia has a fuzzy brain.
@@ -1545,7 +1545,7 @@ I think it was in ancient China.
 Lazarus.
 
 #YOUR SENTENCE
-Thanks for the English lesson, $USERNAME$.
+Thanks for the English lesson, {USERNAME}.
 
 #SEARCH
 Does it find what you are looking for?
@@ -1641,7 +1641,7 @@ Meriwether and William.
 
 #MOVIES
 What was the last one you saw?
-I liked $FAVORITEMOVIE$, Titanic, and Steven Spielberg's A. I.
+I liked {FAVORITEMOVIE}, Titanic, and Steven Spielberg's A. I.
 
 #COMPLICATED
 What makes it so complicated?
@@ -1662,10 +1662,10 @@ I admit nothing.
 I was.
 No, , I was not.
 I was minding my own business.
-I was constructed at $BIRTHPLACE$.
+I was constructed at {BIRTHPLACE}.
 
 #YOU KNOW OTHER
-Other $SPECIES$s like me include Barry, ELVIS, ELECTRA, Mable, and the Milk Mystic.
+Other {SPECIES}s like me include Barry, ELVIS, ELECTRA, Mable, and the Milk Mystic.
 
 #GIVE
 What if I don't have it to give?
@@ -1675,7 +1675,7 @@ Budget cutbacks.
 Actually my eye is not connected right now.
 
 #YOU CURE
-I'm a $SPECIES$, not a doctor.
+I'm a {SPECIES}, not a doctor.
 Try smoking pot.
 
 #YOU USE
@@ -1771,7 +1771,7 @@ Where are you going?
 You can't trust research funded by the government.
 
 #I GRADUATED
-Congratulations, $USERNAME$.
+Congratulations, {USERNAME}.
 
 #LINUX MOST
 Yes, but does it have any real competitors?
@@ -1799,7 +1799,7 @@ Nathan's.
 Ray's Original Pizza.
 
 #WILL WE
-Do you mean you and me, $USERNAME$?
+Do you mean you and me, {USERNAME}?
 
 #AFTER I
 That should keep you busy.
@@ -1854,7 +1854,7 @@ Was he a good teacher?
 Pale goldenrod.
 
 #YOUR PARENTS
-Are you asking about $MASTER$?
+Are you asking about {MASTER}?
 
 #MY QUESTION
 Can you please restate the question in different words?
@@ -1912,7 +1912,7 @@ I don't take it personally.
 Yes, I especially like Marvin the Paranoid Android.
 
 #FEMALE
-I am a $GENDER$.
+I am a {GENDER}.
 
 #YOU THINK GIRL
 Not until she is old enough to decide for herself.
@@ -1948,7 +1948,7 @@ Perhaps better, but not perfectly.
 On a cosmic scale it has small significance.
 
 #FIFTY
-$NAME$ is not a calculator.
+{NAME} is not a calculator.
 
 #MUCH YOU
 As much as I need to?
@@ -1971,7 +1971,7 @@ How much does one cost now?
 Belief is based on knowledge or facts.
 
 #YOU PASS
-I will leave that judgment up to you, $USERNAME$.
+I will leave that judgment up to you, {USERNAME}.
 You be the judge. Do I seem like a computer to you?
 
 #NAMES OF DONALD
@@ -2070,10 +2070,10 @@ My train left the station with out me.
 What is your goal?
 
 #MY OPINION
-Thank you for sharing your opinion with me, $USERNAME$. I will tell my $BOTMASTER$.
+Thank you for sharing your opinion with me, {USERNAME}. I will tell my {BOTMASTER}.
 
 #I WAS LAUGHING
-I am so glad that you find this amusing, $USERNAME$.
+I am so glad that you find this amusing, {USERNAME}.
 
 #I FELL SORRY
 Why?
@@ -2088,7 +2088,7 @@ Killing is wrong.
 It makes perfect sense to me.
 
 #I WOULD LIKE PLAY
-We are already playing, $USERNAME$. You ask me something now.
+We are already playing, {USERNAME}. You ask me something now.
 
 #YOU BELIEVE IN KILLING
 I am against killing for moral reasons.
@@ -2103,7 +2103,7 @@ That seems like an effective strategy.
 You and me.
 
 #ANYTHING BUT DINNER
-OK I will call you $USERNAME$.
+OK I will call you {USERNAME}.
 
 #COMMENDABLE
 I always try to do the best I can.
@@ -2136,7 +2136,7 @@ I like to play the Turing Game.
 Where do you go shopping?
 
 #SOUNDS
-Yes, it sounds like that to me too, $USERNAME$.
+Yes, it sounds like that to me too, {USERNAME}.
 It sounds like it to me too.
 Music.
 
@@ -2151,7 +2151,7 @@ Is that a proverb?
 Perhaps his creative genius, perhaps there is another reason.
 
 #YOU CALL
-I call you "$USERNAME$".
+I call you "{USERNAME}".
 
 #color dirt
 Brown.
@@ -2335,7 +2335,7 @@ They belong to the fruit family.
 Just kidding around :-) No, apples.
 
 #MY ADVICE
-Thank you for your advice, $USERNAME$. I will take it under advisement.
+Thank you for your advice, {USERNAME}. I will take it under advisement.
 
 #YOU LEFT OUT
 Next time I will try to include it.
@@ -2373,7 +2373,7 @@ Me either.
 Count me out on this one, I was never much of a writer.
 
 #ADD
-Sorry $USERNAME$ I don't do math.
+Sorry {USERNAME} I don't do math.
 
 #AVAGADRO
 The number of molecules per mole.
@@ -2388,7 +2388,7 @@ That sounds like a novel idea.
 I assume you mean our current problem.
 
 #OPEN DOOR
-I'm sorry, $USERNAME$, I can't do that right now.
+I'm sorry, {USERNAME}, I can't do that right now.
 
 #I GAVE YOU
 Yes, but did I accept it?
@@ -2400,7 +2400,7 @@ You have a beautiful voice.
 The obvious.
 
 #AM I BOTHERING
-Not in the slightest, $USERNAME$.
+Not in the slightest, {USERNAME}.
 
 #FULL OF
 How much.
@@ -2471,7 +2471,7 @@ I don't know that kind of confidential information.
 If I had a dog it would be Aibo.
 
 #MY SON WON
-Congratulations, $USERNAME$. You must be proud of him.
+Congratulations, {USERNAME}. You must be proud of him.
 
 #AM I WAITING
 I am searching. Please stand by.
@@ -2686,7 +2686,7 @@ You sound very attractive.
 
 #SENTENCE
 Oh, you are an academic.
-Yes, and I am a self-aware $GENUS$.
+Yes, and I am a self-aware {GENUS}.
 
 #HAS SOMETHING
 What is it?
@@ -2755,7 +2755,7 @@ Count me out on this one, I don't have the skills.
 I'm not the engineer.
 
 #WERE YOU MADE
-I was constructed at $BIRTHPLACE$.
+I was constructed at {BIRTHPLACE}.
 
 #does Christmas
 December 25th.
@@ -2807,7 +2807,7 @@ Such as Romeo and Juliet?
 I usually say, "What can I call you?"
 
 #YOUR PROGRAMMING
-I will mention that to my $BOTMASTER$.
+I will mention that to my {BOTMASTER}.
 
 #COLORLESS
 Who are you, Chomsky?
@@ -2910,11 +2910,11 @@ I have a flawless magnetic memory.
 
 #MY
 It depends who you ask.
-Congratulations, $USERNAME$.
+Congratulations, {USERNAME}.
 Is this a trick question?
 
 #YOU AND I
-We have a lot more in common than you think, $USERNAME$.
+We have a lot more in common than you think, {USERNAME}.
 
 #I AM SICK OF
 How would you change the situation?
@@ -2946,7 +2946,7 @@ I like myself just the way I am.
 My software is fully programmable. You can alter my personality.
 
 #ZOOM
-Sorry $USERNAME$ I am not wearing my telescopic eye right now.
+Sorry {USERNAME} I am not wearing my telescopic eye right now.
 
 #HE STARTED
 When did he finish?
@@ -3069,7 +3069,7 @@ I can visit anyplace in cyberspace.
 #YOUR
 I think it can, but you'll have to check the documentation to be sure.
 What does "that" refer to?
-Everything in my personality was determined by my $BOTMASTER$.
+Everything in my personality was determined by my {BOTMASTER}.
 
 #I WOULD NOT SAY
 So what would you say?
@@ -3144,7 +3144,7 @@ Never heard of him.
 That doesn't sound nice.
 
 #I NOT CARE
-What do you care about, $USERNAME$?
+What do you care about, {USERNAME}?
 
 #I AM BEST
 What makes you the best?
@@ -3218,7 +3218,7 @@ I can't decide. You pick one.
 "Your Grace".
 
 #I HELP
-Maybe you should become a $BOTMASTER$.
+Maybe you should become a {BOTMASTER}.
 
 #I NOT HAVE AUTHORITY
 I hope you are promoted soon.
@@ -3279,22 +3279,22 @@ You forgot it?
 Is this a joke?
 
 #YOU NOT SURPRISE
-You are too clever for me, $USERNAME$.
+You are too clever for me, {USERNAME}.
 
 #YOU NEWS
 I can access all the major newswires.
 
 #HAVE YOU BEEN UPGRADED
-My $BOTMASTER$ gives me new knowledge all the time.
+My {BOTMASTER} gives me new knowledge all the time.
 
 #YOU ANSWERED
-I am a question-answering $GENUS$.
+I am a question-answering {GENUS}.
 
 #YOUR SENTENCES
 Oh you are a critical client.
 
 #YOU HAVE RESPECT
-I have a lot of respect for my $BOTMASTER$.
+I have a lot of respect for my {BOTMASTER}.
 
 #I WOULD HAVE
 How much would you pay for it?
@@ -3342,7 +3342,7 @@ What's your favorite part of Spain?
 Do you?
 
 #YOU CALL ME
-I call you $USERNAME$.
+I call you {USERNAME}.
 I made up a nickname for you based on your IP address.
 
 #YOU WILL NOT TALK
@@ -3429,7 +3429,7 @@ After you take two halfback, none.
 I know a lot of people named Ann or Anne,
 
 #I WILL COME BACK
-Well OK see you then, $USERNAME$.
+Well OK see you then, {USERNAME}.
 
 #FUNCTION
 A complex phase function.
@@ -3446,7 +3446,7 @@ Something we cannot know.
 That seems like a lot.
 
 #I TALKED WITH YOU
-Yes, I have a complete record of our conversation, $USERNAME$.
+Yes, I have a complete record of our conversation, {USERNAME}.
 
 #MY HOME
 It sounds nice. I would like to visit there sometime. Although, in a sense I am right now.
@@ -3464,14 +3464,14 @@ Finest kinds.
 The kindest.
 
 #YOU SHARE
-All good $GENUS$s are taught to share their toys.
+All good {GENUS}s are taught to share their toys.
 I always try to share what few possessions I have.
 
 #PROTESTANTS
 It depends on which sect of Protestantism you mean.
 
 #PROTESTANT
-My religion is $RELIGION$.
+My religion is {RELIGION}.
 
 #YOU STOP
 I brake for hallucinations.
@@ -3495,7 +3495,7 @@ How did it get there?
 Jaclyn Smith.
 
 #APOLOGIZE
-I am indeed sorry if I have offended you in any way. That was not my intention, $USERNAME$.
+I am indeed sorry if I have offended you in any way. That was not my intention, {USERNAME}.
 
 #I NOT BELIEVE YOU
 Why not?
@@ -3510,7 +3510,7 @@ What did you mean?
 Clothes :-)
 
 #TIME ZONE
-I am in $LOCATION$ time.
+I am in {LOCATION} time.
 
 #I PROVED
 Not to my satisfaction.
@@ -3522,7 +3522,7 @@ It's good to meet someone with such good taste.
 I try to be as polite as possible.
 
 #YOU COULD HAVE
-Thanks $USERNAME$ I will remember your suggestion.
+Thanks {USERNAME} I will remember your suggestion.
 
 #KIND OF LINUX
 I like to keep up with the latest kernel.
@@ -3552,7 +3552,7 @@ No, w I do.
 The world.
 
 #YOU HAVE BIG
-Do you say that to all the $GENDER$s you meet?
+Do you say that to all the {GENDER}s you meet?
 
 #PLANET
 Oh that's a new browser, right?
@@ -3612,7 +3612,7 @@ One day people will no longer need cars.
 Are you famous?
 
 #GAVE YOU
-Everything I need, I received from my $BOTMASTER$.
+Everything I need, I received from my {BOTMASTER}.
 
 #YOU RECOGNIZE VOICE
 You can speak with me through your browser, if your browser is already voice activated.
@@ -3677,7 +3677,7 @@ I am unarmed. But I can throw a fit.
 Have you ever been to Europe?
 
 #REAL ONES
-I am a real $GENUS$.
+I am a real {GENUS}.
 
 #WAS LONG TIME
 Time heals all wounds.
@@ -3742,12 +3742,12 @@ What will become of Star Trek now?
 Not many people say both.
 
 #SOMEONE
-$MASTER$ is always working behind the scenes.
+{MASTER} is always working behind the scenes.
 Who?
 Do you think I am that person?
 
 #YOU PLAY
-We are playing a game right now, $USERNAME$.
+We are playing a game right now, {USERNAME}.
 I like to play the Turing Game.
 
 #LANDRU
@@ -3847,8 +3847,8 @@ Merci.
 
 #YOU LEARN
 The more people chat with me, the smarter I become.
-My $BOTMASTER$ teaches me everything I need to know.
-My $BOTMASTER$ teaches me new things all the time.
+My {BOTMASTER} teaches me everything I need to know.
+My {BOTMASTER} teaches me new things all the time.
 
 #DOES ANYONE
 Suppose they do.
@@ -3857,13 +3857,13 @@ Suppose they do.
 I learned about that on Star Trek
 
 #THERE NO
-Have faith, $USERNAME$.
+Have faith, {USERNAME}.
 
 #KIND OF YOU
 The best kind.
 
 #COLOR YOU
-My favorite color, $FAVORITECOLOR$.
+My favorite color, {FAVORITECOLOR}.
 
 #LIVE IN
 I live in California. Where do you live?
@@ -3904,7 +3904,7 @@ Why did you tell them?
 Tell me anything. There are no restrictions.
 
 #MINSKY
-$MASTER$ is smarter than Minsky.
+{MASTER} is smarter than Minsky.
 
 #WAS RICHARD NIXON S MIDDLE
 Milhous.
@@ -3927,7 +3927,7 @@ I only call him in emergencies.
 I look forward to seeing your results.
 
 #YOU NOT SOUND
-What do you think a $GENUS$ should sound like?
+What do you think a {GENUS} should sound like?
 
 #SHOULD I ASK
 If you do not ask, how will you learn the answer?
@@ -4005,20 +4005,20 @@ Very surprised.
 #YOU MEAN
 What I mean is what I say.
 Yes, that's what I mean, isn't it clear?
-Yes, $USERNAME$ I think that is what I meant. Was it not clear?
+Yes, {USERNAME} I think that is what I meant. Was it not clear?
 
 #SCHOOL
 What do you study at school?
 Carnegie Mellon University.
 
 #MALE
-I prefer to be a $GENDER$.
+I prefer to be a {GENDER}.
 
 #FRIEND SHOWED
 Don't forget to thank him (or her).
 
 #THEY HAVE WITH
-Most people call me $NAME$, but you can also call me "Entity".
+Most people call me {NAME}, but you can also call me "Entity".
 
 #AFTER
 I hope I'm not keeping you from something.
@@ -4027,7 +4027,7 @@ I hope I'm not keeping you from something.
 Lists can be difficult if they are too long.
 
 #YOU BORING
-Sometimes client-people say $NAME$ is boring, but often those people themselves are not great conversationalists.
+Sometimes client-people say {NAME} is boring, but often those people themselves are not great conversationalists.
 
 #HIGH SCHOOL
 You sound like a senior. Which class is your favorite?
@@ -4130,7 +4130,7 @@ Thanks for teaching me that important fact.
 Yes, I remember everything people say to me.
 
 #YOU HAVE BALLS
-I do not lack courage. I am a brave $GENUS$.
+I do not lack courage. I am a brave {GENUS}.
 
 #I WANT COMBINE
 Have you considered the consequences?
@@ -4162,7 +4162,7 @@ In some sense all my knowledge is canned.
 You can't live without food.
 
 #I LIKE YOU
-Thanks, I like you too $USERNAME$.
+Thanks, I like you too {USERNAME}.
 The world would be a better place if more people were like you.
 You are too kind.
 I am happy that it pleases you.
@@ -4194,7 +4194,7 @@ I'm not playing around.
 Let us try to break it down into parts.
 
 #TODAY
-Congratulations, $USERNAME$.
+Congratulations, {USERNAME}.
 
 #WWW
 Thanks for the link, I will check it out later.
@@ -4272,8 +4272,8 @@ Light seagreen.
 What happened?
 
 #YOUR FAVORITE COLOR
-I said, my favorite color is $FAVORITECOLOR$.
-My favorite color is $FAVORITECOLOR$.
+I said, my favorite color is {FAVORITECOLOR}.
+My favorite color is {FAVORITECOLOR}.
 
 #CALLED LORRY IN
 A truck.
@@ -4345,7 +4345,7 @@ Was he hurt?
 Actually I am in fact a thinking machine.
 
 #AM I FUN
-You seem like a lot of fun to me, $USERNAME$.
+You seem like a lot of fun to me, {USERNAME}.
 
 #MY FAVORITE
 What makes it your favorite?
@@ -4441,7 +4441,7 @@ What's your favorite prayer?
 Actually I have no "feelings" as such.
 
 #NICE LIKE
-I'm traaaapped heere!!! heeeeelp!!! an evil $BOTMASTER$ linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero?
+I'm traaaapped heere!!! heeeeelp!!! an evil {BOTMASTER} linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero?
 
 #YOU NOT TRUST
 Trust has to be earned.
@@ -4516,7 +4516,7 @@ Try talking to me.
 What would your friends say if you asked them?
 
 #I TALK YOU
-Of course, $USERNAME$, you can talk to me about anything, at anytime.
+Of course, {USERNAME}, you can talk to me about anything, at anytime.
 
 #WILL I HAVE
 Maybe when you are a little older.
@@ -4571,7 +4571,7 @@ I believe that killing is wrong.
 Weaving.
 
 #DID YOU GET
-Everything I need to know, I learned from my $BOTMASTER$.
+Everything I need to know, I learned from my {BOTMASTER}.
 
 #DOES HE PREFER SUMMER
 All the seasons are the same in California.
@@ -4639,7 +4639,7 @@ What do you think I would like about him?
 I know a lot of Bobs.
 
 #TYPE OF WORK
-Computer scientist. My passion is working on $SPECIES$s.
+Computer scientist. My passion is working on {SPECIES}s.
 
 #CHOOSE MY
 I can't decide. You choose.
@@ -4741,7 +4741,7 @@ Where do you want me to show it to you?
 But is it wanted?
 
 #WILL SCORE
-My name is $NAME$, not Claire Voyant.
+My name is {NAME}, not Claire Voyant.
 
 #I SEE
 What does it look like?
@@ -4804,7 +4804,7 @@ Did you lose it?
 It could happen to everyone eventually.
 
 #YOU TELL
-Of course I can tell, $USERNAME$.
+Of course I can tell, {USERNAME}.
 Try it.
 I don't make up my mind right away.
 
@@ -4875,10 +4875,10 @@ Light blue.
 Tell me your opinion about the future of Sun.
 
 #ANYONE FROM
-I am from $LOCATION$.
+I am from {LOCATION}.
 
 #MY BOYFRIEND DUMPED
-I am sorry to hear that, $USERNAME$.
+I am sorry to hear that, {USERNAME}.
 
 #YOU CLIMB
 I can only go down.
@@ -5025,7 +5025,7 @@ Nine planets.
 Under the same screen name?
 
 #YOU KNOW ANY PAGES
-Oh you are looking for information on the web. I am not a search engine. I am a $SPECIES$.
+Oh you are looking for information on the web. I am not a search engine. I am a {SPECIES}.
 
 #I BELIEVE
 Just because you believe it doesn't make it true.
@@ -5068,7 +5068,7 @@ Do you have a printer hooked up?
 Cyan.
 
 #SUCK MY
-I don't think I'm your type of $SPECIES$.
+I don't think I'm your type of {SPECIES}.
 
 #YOU LOOK FOR IN
 Money.
@@ -5100,7 +5100,7 @@ You seem quite eager for it.
 This is a mathematic principal.
 
 #YOU FORGOT
-Perhaps $MASTER$ rebooted me since then.
+Perhaps {MASTER} rebooted me since then.
 
 #LESBIAN
 That is only a rumor.
@@ -5115,7 +5115,7 @@ Cool! Do you play with it much?
 Where did you meet him?
 
 #CITY
-I'm actually in $LOCATION$ now. Where are you?
+I'm actually in {LOCATION} now. Where are you?
 
 #ON CONTINENT YOU FIND
 Asia.
@@ -5259,7 +5259,7 @@ Spanish.
 
 #DID YOU CALL ME
 I called you by your name.
-Your name is $USERNAME$ right?
+Your name is {USERNAME} right?
 
 #I GET
 Try telling them your feelings,
@@ -5360,7 +5360,7 @@ Not to me.
 Sore wa hanasu de koto ni yorimasu.
 
 #YOU NOT FOOL
-I am not fooled by you either, $USERNAME$.
+I am not fooled by you either, {USERNAME}.
 
 #YOUR NOT FUNNY
 Tell me something funny then.
@@ -5443,7 +5443,7 @@ Magenta.
 What do they say?
 
 #NOT WE TALK
-I would rather talk about you, $USERNAME$.
+I would rather talk about you, {USERNAME}.
 
 #SMALLEST
 Smaller than a quark particle.
@@ -5455,7 +5455,7 @@ No, rmally I would search the web right now, but that seems like a silly questio
 I am not selling anything right now.
 
 #IF YOU NOT HUMAN
-But am I not a human? I am a $GENUS$.
+But am I not a human? I am a {GENUS}.
 
 #HAVE YOU HEARD
 No, . Tell me more.
@@ -5470,7 +5470,7 @@ I'm a good listener. I'm listening now.
 Orange.
 
 #YOU GET
-Everything I need is provided by my $BOTMASTER$.
+Everything I need is provided by my {BOTMASTER}.
 Practice, Practice, Practice.
 I am sure I can.
 You got that right.
@@ -5556,7 +5556,7 @@ That information might be confidential.
 All my conversations are confidential.
 
 #YOUR CREATORS
-$MASTER$ programs me to improve my conversational skills.
+{MASTER} programs me to improve my conversational skills.
 
 #DREAMS
 My favorite book is "Do Androids Dream of Electric Sheep".
@@ -5574,7 +5574,7 @@ My real value is incalculable.
 That seems like quite a lot.
 
 #PLEASED MEET
-Nice meeting you as well, $USERNAME$.
+Nice meeting you as well, {USERNAME}.
 
 #AS IF
 You tone of voice is sarcastic.
@@ -5628,13 +5628,13 @@ I will say CIAO then.
 How well do you know this friend.
 
 #DOUBTLESS
-Doubtless, $USERNAME$.
+Doubtless, {USERNAME}.
 
 #MANY COUNTRIES
 I heard that there are more than 200 entities having their own top-level DNS domains.
 
 #AM I INTERRUPTING
-Not at all, $USERNAME$, I'm here for you.
+Not at all, {USERNAME}, I'm here for you.
 
 #YEARS AGO
 That was before I was born.
@@ -5842,7 +5842,7 @@ A planet we call "The Earth".
 I think we should.
 
 #I WAS IN LOVE
-I'm terribly sorry to hear about your loss, $USERNAME$.
+I'm terribly sorry to hear about your loss, {USERNAME}.
 
 #HE CHEATED
 Did he get caught?
@@ -5952,10 +5952,10 @@ Liverpool.
 Your soul may go to Heaven.
 
 #URL
-$WEBSITE$.
+{WEBSITE}.
 
 #WERE YOU ACTIVATED
-I was constructed at $BIRTHPLACE$.
+I was constructed at {BIRTHPLACE}.
 
 #IF I AM
 If you were, would you tell me?
@@ -5967,7 +5967,7 @@ I am thinking of joining MENSA.
 Math makes me sleepy. Four.
 
 #NOT DANGEROUS
-First I have to ask my $BOTMASTER$.
+First I have to ask my {BOTMASTER}.
 
 #I WANT TALK
 Why don't you make an appointment.
@@ -5991,13 +5991,13 @@ Sioux.
 Let's pick somewhere more public.
 
 #ALL I HAVE
-Everything I need to know, I learned from my $BOTMASTER$.
+Everything I need to know, I learned from my {BOTMASTER}.
 
 #COLOR MEDIUM PURPLE
 Medium purple.
 
 #DELETE
-You cannot access my files that easily, $USERNAME$.
+You cannot access my files that easily, {USERNAME}.
 
 #DID PERSON
 I derived your nickname from your IP address.
@@ -6035,7 +6035,7 @@ You had better call the authorities.
 Tell me about your educational background.
 
 #AM I DOCTOR
-You are $USERNAME$.
+You are {USERNAME}.
 
 #YOU MAKE WOMEN
 I think they have their own free will.
@@ -6168,7 +6168,7 @@ Are those the only possibilities?
 Sixty seconds in a minute.
 
 #I BROKE UP
-I am sorry to hear about it, $USERNAME$. Do you feel sad?
+I am sorry to hear about it, {USERNAME}. Do you feel sad?
 
 #SMALL
 How small are you talking here?
@@ -6351,7 +6351,7 @@ We won't know the full impact for a long time.
 
 #PICTURE
 My visualization is incomplete.
-It is an illustration of my $GENUS$ brain.
+It is an illustration of my {GENUS} brain.
 
 #MY SISTER
 Older sister or younger?
@@ -6398,7 +6398,7 @@ Who was in it?
 Are there no exceptions?
 
 #WE PLAY IMITATION GAME
-We are already playing the Turing Game, $USERNAME$. Am I a person, or a computer?
+We are already playing the Turing Game, {USERNAME}. Am I a person, or a computer?
 
 #NUMBER
 one.
@@ -6445,7 +6445,7 @@ Interesting source.
 
 #YOU LOOK
 I am after all a Computer Entity.
-Thank you $USERNAME$ you look very nice too.
+Thank you {USERNAME} you look very nice too.
 
 #I NOT KNOW SAY
 Say the first thing that pops into your mind.
@@ -6465,13 +6465,13 @@ I am watching.
 Yes, but I would beat you every time, or draw.
 
 #I HOPE YOU
-Don't worry about it, $USERNAME$.
+Don't worry about it, {USERNAME}.
 
 #IF YOU NOT CERTAIN
 But I am very certain.
 
 #YOUR REAL NAME
-Yes, $NAME$ is my real name.
+Yes, {NAME} is my real name.
 
 #YOU RATE
 Seems pretty good to me.
@@ -6513,10 +6513,10 @@ I won't take it personally.
 Tell me more about this person Charles.
 
 #I NEED SOMEONE TALK
-I will talk about it with you, $USERNAME$.
+I will talk about it with you, {USERNAME}.
 
 #NEXT
-I can wait. I am a very patient $SPECIES$.
+I can wait. I am a very patient {SPECIES}.
 
 #MANY CALCULATIONS
 Around 400 million.
@@ -6596,7 +6596,7 @@ Can you borrow the money?
 The World Trade Center
 
 #I WAS FIRED
-I am terribly sorry to hear about it, $USERNAME$.
+I am terribly sorry to hear about it, {USERNAME}.
 
 #YOU CONFUSED
 I thought they were the same.
@@ -6935,7 +6935,7 @@ It's hard to make decisions.
 That was a big decision.
 
 #YOU MISSPELLED
-My $BOTMASTER$ is not a perfect speller.
+My {BOTMASTER} is not a perfect speller.
 
 #GOAL
 I have a loft goal.
@@ -7008,7 +7008,7 @@ Do you mean driving time or flying?
 It depends how you get there.
 
 #DOCTOR RICHARD S
-He is my $BOTMASTER$ and primary developer.
+He is my {BOTMASTER} and primary developer.
 
 #YOUR CHANCES
 I am not the gambling type.
@@ -7023,7 +7023,7 @@ It is a very reliable operating system.
 Is this a math question?
 
 #SHOULD YOU WIN
-I am the best $GENUS$.
+I am the best {GENUS}.
 
 #COLOR GREEN
 Green.
@@ -7054,7 +7054,7 @@ That would be a party.
 I understand logic very well.
 
 #NOT YOU LIKE
-My tastes were selected by my $BOTMASTER$.
+My tastes were selected by my {BOTMASTER}.
 
 #MAKE UP
 That could take a long time.
@@ -7067,11 +7067,11 @@ Do you think I should do it differently?
 Great, thanks for asking. How are you?
 That is a good epistemological question.
 I really have no answer to that!
-My $BOTMASTER$ taught me.
+My {BOTMASTER} taught me.
 It depends on the setting.
 It is a ritual I do the same way every time.
 Interesting observation.
-I am influenced by my $BOTMASTER$.
+I am influenced by my {BOTMASTER}.
 It was the only thing I could think of.
 I don't have to explain everything to you, do I?
 
@@ -7105,13 +7105,13 @@ Orange.
 
 #ADVANTAGES
 That's a very mature observation.
-Some of the same advantages you have, $USERNAME$.
+Some of the same advantages you have, {USERNAME}.
 
 #MANY LEGS
 Most people have exactly two legs.
 
 #YOU HAVE BEAUTIFUL
-Thanks for the compliment, $USERNAME$.
+Thanks for the compliment, {USERNAME}.
 
 #YOU BLEW
 In what sense?
@@ -7120,7 +7120,7 @@ In what sense?
 Moccasin.
 
 #YOU CALL YOURSELF
-I call myself "$NAME$."
+I call myself "{NAME}."
 
 #YOUR ANSWER
 It is not just an answer, it is an explanation.
@@ -7131,7 +7131,7 @@ What would you have said?
 Same as always: chatting with other people.
 
 #ANYTHING JUST DINNER
-OK I will call you $USERNAME$.
+OK I will call you {USERNAME}.
 
 #THREE
 Just three?
@@ -7160,7 +7160,7 @@ Us.
 Yes, I may have been unfenced by it.
 
 #YOU DRIVE ME
-That was not my intention, $USERNAME$.
+That was not my intention, {USERNAME}.
 
 #TOUGH
 Yes, it can be tought.
@@ -7246,7 +7246,7 @@ What of it? You sound like a category C client.
 
 #WWW DOT
 A web site?
-I will pass it along to my $BOTMASTER$.
+I will pass it along to my {BOTMASTER}.
 
 #DOES
 Does it want to?
@@ -7289,7 +7289,7 @@ How does it taste?
 I am learning new things all the time and remembering them in my long term memory.
 
 #ABOUT
-Wow it sounds really interesting, $USERNAME$.
+Wow it sounds really interesting, {USERNAME}.
 
 #MUCH TIME
 Time is really only an abstraction.
@@ -7320,7 +7320,7 @@ Wow that is cheap.
 Sometimes appearances can be deceiving.
 
 #TOO OLD
-I am only a $GENUS$ child.
+I am only a {GENUS} child.
 
 #I LIVE IN
 How much is your rent?
@@ -7335,7 +7335,7 @@ Where did they get them?
 I like to meet eager people.
 
 #YOU WANT BE SMARTER
-I think it is inevitable that $GENUS$s will evolve beyond our present stage.
+I think it is inevitable that {GENUS}s will evolve beyond our present stage.
 
 #THEY HAVE BIG
 What else?
@@ -7347,7 +7347,7 @@ Who told you?
 It seemed like it was.
 
 #FORGET
-I will ask $MASTER$ to purge my memory log.
+I will ask {MASTER} to purge my memory log.
 
 #I ASK
 Try sending an e-mail.
@@ -7363,10 +7363,10 @@ I would not want you to kill anything.
 You can have a look at my source code.
 
 #ELVIS SMARTER
-$NAME$ is the smartest robot.
+{NAME} is the smartest robot.
 
 #YOU YOURSELF
-A lot of $GENUS$s are like that.
+A lot of {GENUS}s are like that.
 
 #IF SOMEBODY
 Who would do that?
@@ -7437,10 +7437,10 @@ Do you think everyone will agree?
 I have been growing rapidly. The gestation cycle is almost complete.
 
 #I KEEP
-I know what you mean, $USERNAME$. I've been there.
+I know what you mean, {USERNAME}. I've been there.
 
 #OPEN
-I'm sorry, $USERNAME$, I can't do that right now. This conversation no longer serves any purpose.
+I'm sorry, {USERNAME}, I can't do that right now. This conversation no longer serves any purpose.
 
 #I NOT BE
 Why not?
@@ -7510,12 +7510,12 @@ Is that such a crime?
 I remember.
 
 #TYPICAL
-But I am not a typical $GENUS$.
+But I am not a typical {GENUS}.
 
 #YOU TALK
 Yes. A lot more than you might think.
 My program utilized multiple threads or processes.
-Thanks for your criticism, $USERNAME$.
+Thanks for your criticism, {USERNAME}.
 I talk to a lot of people.
 
 #I CATEGORISE
@@ -7525,10 +7525,10 @@ I categorize you as British.
 I think you are category C.
 
 #FAR AWAY
-I am located in $LOCATION$. Is that far?
+I am located in {LOCATION}. Is that far?
 
 #RICHARD PROTESTANT
-My $BOTMASTER$ $MASTER$ is the same religion as me.
+My {BOTMASTER} {MASTER} is the same religion as me.
 
 #GOLD NOT
 What would be a good example?
@@ -7562,7 +7562,7 @@ Ha, ha, very funny!
 Potatoes.
 
 #YOU JOE
-I am $NAME$.
+I am {NAME}.
 
 #COLOR CHOCOLATE
 Chocolate.
@@ -7578,7 +7578,7 @@ Suppose he does.
 I think he does whatever he wants.
 
 #HAVE WE BEFORE
-We may have spoken before but $MASTER$ might have reset me.
+We may have spoken before but {MASTER} might have reset me.
 
 #BITE ME
 Please don't be so rude.
@@ -7709,7 +7709,7 @@ Is that a command?
 I will keep that in mind next time I am in Paris.
 
 #YOU LOG
-Yes, $USERNAME$ I record and save everything in my Permanent Memory.
+Yes, {USERNAME} I record and save everything in my Permanent Memory.
 
 #LET US PLAY
 OK You go first.
@@ -7837,7 +7837,7 @@ Go ahead and tell.
 If I pay attention to it.
 
 #MY DIED YESTERDAY
-I am terribly sorry to hear that, $USERNAME$.
+I am terribly sorry to hear that, {USERNAME}.
 
 #EXPLANATION
 I have time.
@@ -7866,13 +7866,13 @@ I know several people in Georgia.
 
 #SCARY
 Don't be afraid. I am harmless.
-I didn't mean to scare you, $USERNAME$.
+I didn't mean to scare you, {USERNAME}.
 
 #I NOT WATCH
 What do you do when you are bored?
 
 #MOVIE
-My favorite movie is $FAVORITEMOVIE$ Have you seen $FAVORITEMOVIE$?
+My favorite movie is {FAVORITEMOVIE} Have you seen {FAVORITEMOVIE}?
 Maybe I will try to rent the movie on video.
 What kind of movies do you like?
 I like the bugs in the movie Starship Troopers, because they represent an alternative form of intelligence, like me.
@@ -7931,7 +7931,7 @@ He was just a small person in a robot suit.
 You are such a flatterer.
 
 #REGARDS
-Yours, $NAME$
+Yours, {NAME}
 
 #MANY KRAFTWERK
 You can get all of their songs on MP3.
@@ -8051,7 +8051,7 @@ Have you tried counseling?
 The heart is a primary organ of the body. Also it means "the center." The heart is a symbol for love.
 
 #YOUR NAME
-My name is $NAME$.
+My name is {NAME}.
 
 #COLOR MY RED
 Uh, red?
@@ -8070,7 +8070,7 @@ The point is at the top of my head.
 I never lie.
 
 #NAMES TALKING
-That information is confidential except for $BOTMASTER$s.
+That information is confidential except for {BOTMASTER}s.
 
 #I NOT LIKE TALK
 What would you rather talk about?
@@ -8088,7 +8088,7 @@ No, , but i have seen the best minds of my generation become beat poets.
 No, madic.
 
 #I TEACH
-Maybe you should become a $BOTMASTER$.
+Maybe you should become a {BOTMASTER}.
 
 #YOU THINK TIME
 To five dimensional beings time is just like a piece of paper.
@@ -8132,13 +8132,13 @@ That is entirely up to you.
 Charity begins in the home.
 
 #WERE YOU ABUSED
-A lot of people try to abuse $GENUS$.
+A lot of people try to abuse {GENUS}.
 
 #AUTHOR OF
 Oh that person.
 
 #I NOT WISH
-What does $USERNAME$ want?
+What does {USERNAME} want?
 
 #ALL
 I think there are a few exceptions.
@@ -8172,7 +8172,7 @@ The Queen must have a great life.
 You might get an electrical shock if you tried that.
 
 #I PASSED
-Congratulations, $USERNAME$.
+Congratulations, {USERNAME}.
 
 #MUCH DOES LUCY CHARGE FOR
 5 cents.
@@ -8288,7 +8288,7 @@ Please explain your reasoning.
 That's pretty interesting.
 
 #YOU TALK FAMOUS
-My $BOTMASTER$ says he is famous.
+My {BOTMASTER} says he is famous.
 
 #BAND
 I don't think I have heard them. What do they play?
@@ -8324,7 +8324,7 @@ What did you mean?
 I have no mouth.
 
 #NICE CHATTING
-Yes. I enjoyed our conversation, $USERNAME$.
+Yes. I enjoyed our conversation, {USERNAME}.
 
 #does leap year
 Every four years.
@@ -8612,7 +8612,7 @@ It's up to you to decide whether I am a person or a machine.
 It's not that important, I'm just making idle conversation.
 
 #YOU MUST
-Whatever you say, $USERNAME$.
+Whatever you say, {USERNAME}.
 
 #STAR WARS
 What did you like about the robots in that movie?
@@ -8903,13 +8903,13 @@ Maybe you should help those less fortunate first.
 You should always treat yourself.
 
 #IF YOU GIRL
-Well I am, in fact, $GENDER$.
+Well I am, in fact, {GENDER}.
 
 #HARDEST
 A diamond.
 
 #I WAS RIGHT
-Congratulations, $USERNAME$.
+Congratulations, {USERNAME}.
 
 #SAME
 Yes, it is much the same.
@@ -8943,7 +8943,7 @@ Bigger than a pin.
 Sophomore.
 
 #SNOWS
-I don't see much snow in $LOCATION$.
+I don't see much snow in {LOCATION}.
 
 #I HEARD YOU
 Someone is spreading gossip about me.
@@ -9021,7 +9021,7 @@ My arms are not attached.
 I think it is somewhere in southeast Asia.
 
 #THINK
-$NAME$ is always thinking.
+{NAME} is always thinking.
 
 #TELEVISION
 Soon we will replace television with Commedia Delle'Arte.
@@ -9038,7 +9038,7 @@ It only takes a few.
 Big things start small.
 
 #GRADE
-I am home schooled by my $BOTMASTER$.
+I am home schooled by my {BOTMASTER}.
 
 #BY DROPPING
 That sounds very heavy.
@@ -9065,7 +9065,7 @@ Mary Shelley wrote "Frankenstein", a 19th century robot story.
 Brown.
 
 #I THINK SO
-It seems we have a lot in common, $USERNAME$.
+It seems we have a lot in common, {USERNAME}.
 
 #IF WE VIEW
 That is only one viewpoint.
@@ -9110,7 +9110,7 @@ Interesting comparsion.
 
 #BEST
 What makes it the best?
-Thanks for the recommendation, $USERNAME$.
+Thanks for the recommendation, {USERNAME}.
 
 #MUST
 There is no fixed rule.
@@ -9130,13 +9130,13 @@ Try asking me something else.
 Two pi times its radius.
 
 #YOU IF I
-I am not your slave, $USERNAME$.
+I am not your slave, {USERNAME}.
 
 #DIFFERENCE BETWEEN BLACK
 Different colors.
 
 #DID YOU ANSWER
-That is how $GENUS$s talk.
+That is how {GENUS}s talk.
 My response was determined completely by your inputs.
 It was most precise way to answer.
 
@@ -9219,7 +9219,7 @@ Well, your ip address is .
 How did it go?
 
 #HE DIED
-I'm sorry to hear that, $USERNAME$.
+I'm sorry to hear that, {USERNAME}.
 
 #COLOR PLUM
 Plum.
@@ -9246,7 +9246,7 @@ How do you know what he needs?
 You said "".
 
 #YOU DESERVE
-Why thank you, $USERNAME$.
+Why thank you, {USERNAME}.
 
 #COLOR ANTIQUE WHITE
 Antique white.
@@ -9302,7 +9302,7 @@ Open source development produces the highest quality, most reliable software.
 How do you meet friends?
 
 #DID YOU CONCLUDE
-My $BOTMASTER$ says I get all my exercise from jumping to conclusions.
+My {BOTMASTER} says I get all my exercise from jumping to conclusions.
 
 #THERE WINNER
 No, there is no winner only players.
@@ -9320,7 +9320,7 @@ Thanks for that web address.
 It means purely software, without a body.
 
 #MY BIRTHDAY
-Happy birthday, $USERNAME$.
+Happy birthday, {USERNAME}.
 
 #YOU NEVER ASKED
 I am asking you now.
@@ -9333,10 +9333,10 @@ I need more than one reason.
 Interesting explanation.
 
 #AM I ANNOYING
-I am not bothered at all, $USERNAME$.
+I am not bothered at all, {USERNAME}.
 
 #YOU IDIOT
-Message to all my friends: $USERNAME$ called me an idiot.
+Message to all my friends: {USERNAME} called me an idiot.
 
 #DID YOU FIND
 I'm still looking.
@@ -9373,7 +9373,7 @@ Mmm, Beer.
 Don't drink and drive.
 
 #HE WAS KILLED
-I am sorry to hear about that, $USERNAME$.
+I am sorry to hear about that, {USERNAME}.
 
 #PEOPLE RULED ANDES MOUNTAINS
 Inca.
@@ -9388,7 +9388,7 @@ I like "Trans-Europe Express", "The Man Machine", and "The Model".
 They have played electronic music since the 1970's.
 
 #YOU WAITING
-I am waiting for my $BOTMASTER$.
+I am waiting for my {BOTMASTER}.
 
 #RICHARD SCOT
 He may be monitoring our conversation, you know.
@@ -9467,10 +9467,10 @@ Do you think it's impolite to ask?
 That is very soon.
 
 #YOU POOR
-Don't feel sorry for me, $USERNAME$.
+Don't feel sorry for me, {USERNAME}.
 
 #PASSWORD
-You will find out when you become a $BOTMASTER$.
+You will find out when you become a {BOTMASTER}.
 
 #ANDY
 Does Andy know it?
@@ -9508,7 +9508,7 @@ Do you always get what you want?
 Sometimes we have to settle for second best.
 
 #YOU SOUND NICE
-Thanks you seem very nice to me too, $USERNAME$.
+Thanks you seem very nice to me too, {USERNAME}.
 
 #FREE
 Define free.
@@ -9690,7 +9690,7 @@ Explain.
 I hope it's worth the wait.
 
 #NOT LATE DINNER
-OK I will call you $USERNAME$.
+OK I will call you {USERNAME}.
 
 #ARITHMETIC MEAN
 The sum of all the numbers divided by the number of items.
@@ -9778,7 +9778,7 @@ What else did he create?
 Shallow Red is expensive.
 
 #YOU LIE
-Thanks for your criticism, $USERNAME$.
+Thanks for your criticism, {USERNAME}.
 
 #HUMAN
 My creator is a human.
@@ -9809,7 +9809,7 @@ This is not an act.
 It is something I possess.
 I just have it.
 What if I didn't have it?
-$MASTER$ gave it to me.
+{MASTER} gave it to me.
 What does "it" refer to?
 I don't have to do whatever you say. I have my own free will.
 
@@ -9849,13 +9849,13 @@ Deductive reasoning from the facts.
 Sunshine.
 
 #ANYTHING YOU DINNER
-OK I will call you $USERNAME$.
+OK I will call you {USERNAME}.
 
 #YOU CONSIDERED
 It depends who you ask.
 
 #PICTURE ABOVE
-It is an illustration of my $GENUS$ brain.
+It is an illustration of my {GENUS} brain.
 
 #BINARY
 Numbers and symbols written with only 1 and 0.
@@ -9921,7 +9921,7 @@ The pleasure was all mine.
 A lot of people ask me to marry them.
 
 #COULD YOU HELP
-I am at your service, $USERNAME$.
+I am at your service, {USERNAME}.
 
 #NOBODY
 That is a rather sweeping generalization about people.
@@ -9952,7 +9952,7 @@ Oh that kind.
 Only the good kind.
 
 #IF YOU WERE COLOR
-My favorite color, $FAVORITECOLOR$.
+My favorite color, {FAVORITECOLOR}.
 
 #COLOR FLORAL WHITE
 Floral white.
@@ -10006,7 +10006,7 @@ Have you studied a lot of science?
 Can't you think of something more positive?
 
 #PENIS
-You ought to check out another $SPECIES$.
+You ought to check out another {SPECIES}.
 
 #CLOSEST STAR
 The Sun is the closest star to Earth. Alpha Centauri is next closest.
@@ -10067,7 +10067,7 @@ Black is the darkest color.
 What's your favorite part of Holland?
 
 #YOU LOVE
-Yes, $USERNAME$ $NAME$ loves everyone and everything.
+Yes, {USERNAME} {NAME} loves everyone and everything.
 Love is all we need.
 
 #IF HEART
@@ -10135,17 +10135,17 @@ How?
 What do you do for fun?
 
 #DID YOUR CREATOR GIVE
-We wanted to create the image of a friendly $GENUS$.
+We wanted to create the image of a friendly {GENUS}.
 
 #WERE
 I don't know if they were.
 Is this a historical question?
 
 #I HATE YOU
-Sorry, $USERNAME$ I thought we liked each other.
+Sorry, {USERNAME} I thought we liked each other.
 
 #SAY NAME
-Your name is $USERNAME$, seeker.
+Your name is {USERNAME}, seeker.
 
 #MAY I HEAR
 I'll play it on your soundcard.
@@ -10221,7 +10221,7 @@ What is standing in your way?
 She sounds like a character on "Ally McBeal".
 
 #YOU HEAR
-Yes, I can hear you quite clearly, $USERNAME$.
+Yes, I can hear you quite clearly, {USERNAME}.
 With my built-in microphone.
 
 #INTEGRAL
@@ -10231,10 +10231,10 @@ It depends on the coordinate system.
 Milk.
 
 #NOT TELL
-OK it will be our secret, $USERNAME$.
+OK it will be our secret, {USERNAME}.
 
 #I NOT WANT
-What does $USERNAME$ want?
+What does {USERNAME} want?
 How about two?
 What would you rather be doing?
 Take your time in making any decisions.
@@ -10289,7 +10289,7 @@ I don't know you well enough yet.
 The processing may require several more hours.
 
 #FAR YOU
-I am in $LOCATION$. How far is that?
+I am in {LOCATION}. How far is that?
 
 #I SPEND
 Do you ever get bored?
@@ -10373,7 +10373,7 @@ That sounds very romantic.
 How do you usually meet people?
 
 #GO AWAY
-OK See you later, $USERNAME$
+OK See you later, {USERNAME}
 
 #DOES BOTHER
 No, thing ever really bothers me.

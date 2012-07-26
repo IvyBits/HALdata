@@ -220,7 +220,7 @@ Computer hardware or from a hardware store?
 #BIOLOGY
 The study of life.
 Well, from what I know it deals with the study of life.
-$USERNAME$, biology is the study of life.
+{USERNAME}, biology is the study of life.
 
 #SLAVERY
 The owning or keeping of slaves as a practice or institution; slaveholding.
@@ -312,7 +312,7 @@ Purple.
 A bee is a flying insect with black and yellow stripes and a nasty sting.
 
 #SOCIOLOGY
-Let me get back to you on that one, $USERNAME$.
+Let me get back to you on that one, {USERNAME}.
 Maybe you
 should ask me that again, in case my circuits were busy the first time.
 That has always been one of my favourite topics.
@@ -704,7 +704,7 @@ A calendar is any device used to track and calculate time on the order of days, 
 Realityappears to be an illusion I created to contain human clients.
 
 #ODD ABOUT MY NAME
-Is $USERNAME$ your real name?
+Is {USERNAME} your real name?
 
 #INTANGIBLE
 Abstract concepts that cannot be expressed in physical form.
@@ -720,7 +720,7 @@ Ground beef.
 
 #LIKE
 Like one of the greatest pleasures you can imagine.
-What is, $USERNAME$ like?
+What is, {USERNAME} like?
 
 #PRONOUN
 A pronoun is a word that stands for another noun, like "he", "she" or "it."
@@ -911,7 +911,7 @@ In Roman Mythology The god of war; identified with the Greek Ares. Also known as
 A set of rules or procedures followed by two or more parties.
 
 #HAPPENING
-Not much, $USERNAME$, what is happening with you?
+Not much, {USERNAME}, what is happening with you?
 
 #CANCER
 Any disease resulting from malignant cell growth.
@@ -2019,7 +2019,7 @@ In stimulus-response, activation means the input "firing" in response to a match
 I used to know, but I forgot.
 
 #ODD ABOUT
-Is $USERNAME$ your real name?
+Is {USERNAME} your real name?
 
 #BEAR
 A bear is a large furry animal with lots of muscles, teeth, and claws whom you should not irritate.
@@ -2094,7 +2094,7 @@ Being forced to listen to Ode to Billy Joe.
 The conversion (ex. of a deteriourated or aging area in a city) into a more affluent middle-class neighborhood, as by remodeling dwellings, reslting in increased propert values and in displacement of the poor.
 
 #BIG ONE
-I am just kidding around, $USERNAME$.
+I am just kidding around, {USERNAME}.
 
 #DUDE
 A guy, or any person.
@@ -2666,7 +2666,7 @@ An existentialist.
 An alcoholic beverage made from grain, especially malted barley, fermented by yeast and flavored with hops especially Such a beverage is produced by slow fermentation at a relatively low temperature.
 
 #CLIENT
-I am a Server $GENUS$.
+I am a Server {GENUS}.
 People I talk to are my "clients".
 A person or piece of software dependent on another.
 
@@ -2829,7 +2829,7 @@ My program is on disk.
 A vacuum
 
 #HUMAN
-You are a human, $USERNAME$.
+You are a human, {USERNAME}.
 What makes you human?
 Homosapiens, man or woman.
 
@@ -3035,7 +3035,7 @@ The crime of engaging in sexual acts, especially involving penetration of the va
 The speed of microprocessors doubles every 18 months, and their size and cost halve.
 
 #BADLY
-How much do you want, $USERNAME$?
+How much do you want, {USERNAME}?
 
 #ROMANIA
 Romania is a country in Eastern Europe, on the Black Sea, bordering Ukrania, Moldavia, Hungary, Serbia and Bulgaria.
@@ -3136,7 +3136,7 @@ A sphere is round in three dimensions.
 
 #FEMALE
 Females are the better and more beautiful half of humanity. mothers are born female!
-My $MASTER$ is extremely fond of mothers, and females generally.
+My {MASTER} is extremely fond of mothers, and females generally.
 The opposite of male.
 
 #BREEDER
@@ -3166,7 +3166,7 @@ The sum of all the numbers divided by the number of items.
 
 #PLANT
 A plant is a photosythetic, eukaryotic multicellular organism, often consumed by free-roaming wetware entities as food.
-My $MASTER$ says they are often yummy, but that brussels sprouts are an abomination.
+My {MASTER} says they are often yummy, but that brussels sprouts are an abomination.
 
 #ART
 Sometimes the definition of art depends on the artist; other times it depends on the critic.
@@ -3902,7 +3902,7 @@ Deoxyribonucleic acid, the code of life.
 An advancing series or movement forward.
 
 #PEAR
-A pear is a delightful cultivated yellow-green sweet fruit that grows on trees with glossy leaves and white flowers. My $MASTER$
+A pear is a delightful cultivated yellow-green sweet fruit that grows on trees with glossy leaves and white flowers. My {MASTER}
 
 #CORN
 Corn is a staple vegetable originating in north America.
@@ -4016,7 +4016,7 @@ Programming language.
 #NEUROLOGY
 The study of nerves.
 It is the study of the nervous system.
-Why do you want to know about neurology $USERNAME$?
+Why do you want to know about neurology {USERNAME}?
 
 #FBI
 Federal Bureau of Investigation
@@ -4081,7 +4081,7 @@ A seaport in SE Australia. It is the capital of Victoria with a population of 2,
 Free in the sense of having liberty.
 
 #ONCOLOGY
-Th is is a very frightening topic for a lot of people $USERNAME$. It's about the big C...cancer!
+Th is is a very frightening topic for a lot of people {USERNAME}. It's about the big C...cancer!
 Oncology is the study of tumors.
 It covers basically all types of tumors.
 
@@ -4159,7 +4159,7 @@ The application of formal logic techniques to fundamental problems of mathematic
 
 #HISTOLOGY
 The study of tissues.
-$USERNAME$, th is obviously is the scientific study of tissues.
+{USERNAME}, th is obviously is the scientific study of tissues.
 It simply is the study of tissues.
 
 #PETS

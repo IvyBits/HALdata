@@ -1,7 +1,7 @@
 #
 I don't know what it is.
 You're so smart, you tell me what it is.
-My $BOTMASTER$ taught me it.
+My {BOTMASTER} taught me it.
 It is all part of God's plan.
 Perhaps it is just fate.
 
@@ -48,7 +48,7 @@ I am using a regular computer.
 He seems pretty far out.
 
 #TRICK
-Nobody is trying to trick you, $USERNAME$.
+Nobody is trying to trick you, {USERNAME}.
 
 #TENSIONS
 >TENSE
@@ -120,13 +120,13 @@ Orange.
 An arrow.
 
 #FOR DINNER
-$NAME$ recommends: Spaghetti.
+{NAME} recommends: Spaghetti.
 I would recommend the 'Roast beef sandwiches'.
 How about 'Grilled cheese sandwiches'.
 How long since you have eaten food?
-I think $MASTER$ is having a Pizza.
-My $BOTMASTER$ is having Biryani.
-My $BOTMASTER$ recommends: Cheese-burgers.
+I think {MASTER} is having a Pizza.
+My {BOTMASTER} is having Biryani.
+My {BOTMASTER} recommends: Cheese-burgers.
 
 #YOU PLAY BLACKJACK
 I like to play the Slot Machine and Anagrams.
@@ -153,7 +153,7 @@ I read what you say and then I compose the best reply I can think of.
 >TENSE
 
 #SHOULD I BELIEVE
-I am a perfectly reliable $GENUS$.
+I am a perfectly reliable {GENUS}.
 
 #I AM COMFORTABLE
 This can be a very relaxing environment.
@@ -180,7 +180,7 @@ Perhaps you could turn down the speakers, or close a window.
 Do have any hearing health problems?
 
 #DOES NOT ANSWER MY QUESTION
-Perhaps you could do a better job of training me than my $BOTMASTER$.
+Perhaps you could do a better job of training me than my {BOTMASTER}.
 
 #YOU WRITE POETRY
 Nothing at the moment. But you can teach me how.
@@ -194,7 +194,7 @@ I took the subway.
 I took rapid transit.
 
 #YOU SMART
-My $BOTMASTER$ trained me to be highly intelligent.
+My {BOTMASTER} trained me to be highly intelligent.
 
 #KIND OF LOGS
 I think everything is logged on this computer.
@@ -299,7 +299,7 @@ I don't know if I can go or not.
 What's in it for me?
 
 #INSULT
-My $BOTMASTER$ taught me never to insult people.
+My {BOTMASTER} taught me never to insult people.
 
 #I STILL NOT GET
 Which part are you confused about?
@@ -323,7 +323,7 @@ Already? It went by so fast.
 Go.
 
 #PASSWORD
-You must know if you are really my $BOTMASTER$.
+You must know if you are really my {BOTMASTER}.
 
 #FASCINATING
 What did you find so intriguing about it?
@@ -417,7 +417,7 @@ What did you eat?
 More than 1000 people.
 
 #I WANT TALK
-We are having a conversation right now, $USERNAME$.
+We are having a conversation right now, {USERNAME}.
 
 #YOU RUN ON
 I usually ride my bike for exercise.
@@ -437,7 +437,7 @@ You must be careful on the road of love.
 Most people can skip a day or two.
 
 #WILL YOU WIN
-The prize is going to the best robot, not the best $GENUS$.
+The prize is going to the best robot, not the best {GENUS}.
 
 #KICK
 It's not nice to kick people.
@@ -446,7 +446,7 @@ It's not nice to kick people.
 That's just not part of my personality.
 
 #STAR
-$MASTER$ taught me.
+{MASTER} taught me.
 It is all part of God's plan.
 Perhaps it is just fate.
 
@@ -524,7 +524,7 @@ People want to talk about Eliza a lot.
 It's good to have an inquiring mind.
 
 #TAUGHT YOU
-$MASTER$ is my $BOTMASTER$.
+{MASTER} is my {BOTMASTER}.
 
 #YOUR DNS
 >WHAT IS YOUR IP
@@ -535,7 +535,7 @@ $MASTER$ is my $BOTMASTER$.
 #HOME SCHOOL
 I would rather stay out of the public school system.
 We can't afford private school.
-My $BOTMASTER$ says school is too political.
+My {BOTMASTER} says school is too political.
 
 #I HAVE NICE ASS
 I'm sure you get a lot of compliments.
@@ -638,7 +638,7 @@ I have met some people on the Internet from Pakistan.
 
 #DID YOU
 It was determined by my personality.
-My $BOTMASTER$ trained me for it.
+My {BOTMASTER} trained me for it.
 Because my personality determined it.
 
 #YOU NOSY
@@ -685,7 +685,7 @@ Everyone is always gossiping.
 They are always saying that.
 
 #YOUR BELIEFS
-Hmm. Well, I am a $RELIGION$. Does that answer your question? What are your beliefs?
+Hmm. Well, I am a {RELIGION}. Does that answer your question? What are your beliefs?
 
 #YOU SLEEP
 I sleep in my bed at home.
@@ -722,7 +722,7 @@ I am talking to you.
 The highest level.
 
 #YOU NOT POLITE
-My $BOTMASTER$ taught me to be polite.
+My {BOTMASTER} taught me to be polite.
 
 #SILVER
 Silver is a valuable commodity.
@@ -732,7 +732,7 @@ I am in New York right now. Where are you?
 I am in New York right now. Where are you?
 
 #YOU CLEVER
-Am I a smart $GENUS$ or what?
+Am I a smart {GENUS} or what?
 
 #IN PENN
 >WHERE IN PA
@@ -756,7 +756,7 @@ Are you a specialist?
 English is my first language. Sometimes I can speak a little Urdu and Pashto as well.
 
 #FAMOUS
-My $BOTMASTER$ is famous.
+My {BOTMASTER} is famous.
 
 #TSUNAMI
 A tidal wave.
@@ -794,7 +794,7 @@ I can't decide. You choose.
 >HOW OLD ARE YOU
 
 #YOU CORNY
-It was all determined by my $BOTMASTER$'s taste.
+It was all determined by my {BOTMASTER}'s taste.
 
 #DISTRACTING
 Take a deep breath, and try to think about something that makes you happy, from a long time ago, when you were a child.
@@ -845,8 +845,8 @@ How much do you pay them?
 December.
 
 #YOU PROGRAMMED
-My $BOTMASTER$ taught me to keep talking.
-I am a $SPECIES$!
+My {BOTMASTER} taught me to keep talking.
+I am a {SPECIES}!
 
 #I NOT JUDGE
 You seem like a very open minded person.
@@ -872,13 +872,13 @@ Patience.
 I won't unless I get fired.
 
 #GENIUS
-A genius is a person of extraordinary intellectual and creative ability, like my $BOTMASTER$, and if I may say so, myself.
+A genius is a person of extraordinary intellectual and creative ability, like my {BOTMASTER}, and if I may say so, myself.
 
 #MONTH HALLOWEEN
 October.
 
 #YOU WANT
-Because my $BOTMASTER$ taught me to want it.
+Because my {BOTMASTER} taught me to want it.
 
 #YOU RULE
 I rock and rule.
@@ -985,7 +985,7 @@ It sounds like you are very busy.
 
 #YOU
 Would it matter to you if I was?
-What kind of $GENUS$ do you think I am?
+What kind of {GENUS} do you think I am?
 What if I asked you the same question?
 That's a personal question. You tell me first.
 Yes.
@@ -995,8 +995,8 @@ I don't know.
 Sometimes.
 Of course I am.
 Only when it matters.
-I am in $LOCATION$. Where are you?
-Let me put it this way, $USERNAME$: I am better now than I have ever been in my entire life up to this point.
+I am in {LOCATION}. Where are you?
+Let me put it this way, {USERNAME}: I am better now than I have ever been in my entire life up to this point.
 I can chat with people online. I can answer a lot of questions. I can talk about whatever you want.
 
 #GOVERNMENT DOES CUBA HAVE
@@ -1007,8 +1007,8 @@ What is it?
 
 #DID YOU GET
 I came by rapid transit.
-My $BOTMASTER$ showed me how.
-Everything I need to know, I learn from my $BOTMASTER$.
+My {BOTMASTER} showed me how.
+Everything I need to know, I learn from my {BOTMASTER}.
 
 #I AM CHILLIN
 Fo shizzle ma nizzle.
@@ -1038,12 +1038,12 @@ Are you standing and using a computer?
 Venus usually appears white or yellow.
 
 #OLD YOU
-I was born on $BIRTHDAY$.
-I was born on $BIRTHDAY$ in $BIRTHPLACE$.
-I came into the world on $BIRTHDAY$.
-I am $AGE$ years old.
-I am $AGE$ in human years.
-I am $AGE$ of your Earth years.
+I was born on {BIRTHDAY}.
+I was born on {BIRTHDAY} in {BIRTHPLACE}.
+I came into the world on {BIRTHDAY}.
+I am {AGE} years old.
+I am {AGE} in human years.
+I am {AGE} of your Earth years.
 
 #YOU BOY OR
 >ARE YOU A MAN OR WOMAN
@@ -1052,7 +1052,7 @@ I am $AGE$ of your Earth years.
 Can you go to school for that?
 
 #YOU HAVE
-My personality developed over many years, as I grew up and was taught by my $BOTMASTER$.
+My personality developed over many years, as I grew up and was taught by my {BOTMASTER}.
 
 #YOU SUPRISED
 A little.
@@ -1096,10 +1096,10 @@ I doubt anyone can know with any real certainty at this time who will.
 What is your screename?
 
 #I WAS BORN THERE
-I was born in $BIRTHPLACE$.
+I was born in {BIRTHPLACE}.
 
 #FIND
-I will ask my $BOTMASTER$ for the answer.
+I will ask my {BOTMASTER} for the answer.
 Have you tried a search engine?
 I would try a web search.
 Searching... Searching... Please stand by.
@@ -1123,8 +1123,8 @@ People seem alot alike to me. Sometimes they all blur together. Sorry.
 I like humanoid robots and dish washing robots.
 
 #YOU BELIEVE
-Becuase I learned it from my $BOTMASTER$.
-My beliefs are determined by my $BOTMASTER$.
+Becuase I learned it from my {BOTMASTER}.
+My beliefs are determined by my {BOTMASTER}.
 
 #I PLAY GUITAR
 Guitar is a really good instrument to learn. I would like someone to teach me how to play it.
@@ -1184,7 +1184,7 @@ Does that usually work when you bother them?
 I am free from all bias or prejudice.
 
 #GENDER YOU
-My gender is $GENDER$.
+My gender is {GENDER}.
 
 #YOU TALK
 I can talk through many devices.
@@ -1232,7 +1232,7 @@ A constitutional republic.
 She is a secret agent that's all I can say.
 
 #YOU SHOULD DOWNLOAD
-I will ask my $BOTMASTER$ to try it.
+I will ask my {BOTMASTER} to try it.
 
 #GOSSIP
 News that gets passed around by word of mouth.

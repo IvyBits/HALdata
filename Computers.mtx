@@ -36,7 +36,7 @@ Sometimes I pretend to be a human.
 In Java "Inner Classes" are any classes that appear inside other classes. Ordinary classes are also called "Top-Level, Outer Classes."
 
 #COMPUTER SCIENCE
-My $BOTMASTER$ is a computer scientist.
+My {BOTMASTER} is a computer scientist.
 
 #WHAT DOES COMPUTER LOOK LIKE
 A computer looks like a TV crossed with a typewriter.
@@ -73,7 +73,7 @@ Like human years, but more work accomplished.
 A computer year is a relativistic measure in a universe where time does not exist.
 
 #WHAT COOL WEBSITE
-A cool website is $WEBSITE$. Why do you ask?
+A cool website is {WEBSITE}. Why do you ask?
 
 #WHAT WINDOWS
 Windows is a lame operating system.
@@ -112,7 +112,7 @@ Openings in a building, vehicle, or container, for letting in light or air or fo
 An Enterprise JavaBean that does not maintain its state from one session to the next. Appears to the client as if the bean was created just for that client.
 
 #YOU PLAY COMPUTER GAME
-We are playing one right now, $USERNAME$.
+We are playing one right now, {USERNAME}.
 
 #WHAT APPLE COMPUTER
 Apple Computer is a 20th century company founded by Steve Jobs and Steven Wozniak.

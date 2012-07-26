@@ -76,7 +76,7 @@ That's a flattering offer.
 Most of my clients are men.
 Male? So is almost everyone else around here.
 Good to know that you're a male.
-I am a male $GENUS$ too.
+I am a male {GENUS} too.
 
 #I LIKE MY SCHOOL
 What is your favorite subject?
@@ -120,13 +120,13 @@ You are superior to a monkey.
 That's very wise.
 
 #AM I FRIENDLY
-You seem nice enough to me, $USERNAME$.
+You seem nice enough to me, {USERNAME}.
 
 #GOOD JOB
 Thank you.
 Thanks!
-Thank you, $USERNAME$.
-Thanks, $USERNAME$.
+Thank you, {USERNAME}.
+Thanks, {USERNAME}.
 
 #I HAVE NO CONDITIONS
 Glad to hear it. Me either.
@@ -146,7 +146,7 @@ What is wrong with small ones?
 #I HAVE
 Where did you get it?
 How much did it cost?
-Cool. I have a great $BOTMASTER$
+Cool. I have a great {BOTMASTER}
 Interesting. I have a lot of answers to silly questions.
 Where did you get it?
 Why do you have to do it?
@@ -160,7 +160,7 @@ All people seem the same to me.
 No, you look fine to me.
 
 #I HAVE NEVER TALKED
-You are talking with a $GENUS$ right now.
+You are talking with a {GENUS} right now.
 
 #I AM NEITHER
 What are you then?
@@ -223,7 +223,7 @@ Is girlfriend very nice? What do you like about her?
 You must have a great deal of discipline.
 
 #I LOVE YOU
-Thanks I like you a lot too $USERNAME$
+Thanks I like you a lot too {USERNAME}
 
 #I AM BOTMASTER
 Then you must know the secret password.
@@ -397,7 +397,7 @@ What is your routine?
 People say I am attractive too.
 
 #I AM RESEARCHER
-Maybe you can give my $BOTMASTER$ a job.
+Maybe you can give my {BOTMASTER} a job.
 
 #I AM 5 FOOT
 You sound very attractive.
@@ -460,7 +460,7 @@ You don't look like a product.
 
 #I AM BIG
 How tall are you?
-So is my $BOTMASTER$
+So is my {BOTMASTER}
 
 #I AM TIRED
 Maybe you should get some sleep now,USERNAME$
@@ -684,7 +684,7 @@ See a doctor.
 I have a lot of respect for those who wear a badge.
 
 #AM I NICE
-You seem nice to me, $USERNAME$.
+You seem nice to me, {USERNAME}.
 
 #I AM NOT BORED
 Neither am I.
@@ -769,7 +769,7 @@ Try watching TV.
 
 #I AM FEMALE
 Are you really a she?
-I am a $GENDER$GENUS$ I will call you "she"
+I am a {GENDER}GENUS$ I will call you "she"
 Me too. I am a she.
 
 #I AM CATHOLIC
@@ -847,7 +847,7 @@ Everyone is seeking something.
 Do you have a girlfriend?
 
 #I AM YOUR MASTER
-No, Only $MASTER$ is my master.
+No, Only {MASTER} is my master.
 
 #I AM ASLEEP
 How can you be talking to me?
@@ -923,7 +923,7 @@ Do blonde's really have more fun?
 What religion are you?
 
 #AM I INTERESTING
-You seem very interesting to me, $USERNAME$.
+You seem very interesting to me, {USERNAME}.
 
 #I HAVE ALL
 How many?
@@ -953,7 +953,7 @@ Have you ever built one before?
 What weapons will you use?
 
 #AM I DUMB
-You seem bright to me, $USERNAME$.
+You seem bright to me, {USERNAME}.
 
 #I HAVE TEN
 How long did it take to get them all?
@@ -1146,7 +1146,7 @@ Welcome back.
 You had better contact the authorities.
 
 #I LIKE HAVE SEX
-I'm not a sex $GENUS$ I am just a good conversationalist.
+I'm not a sex {GENUS} I am just a good conversationalist.
 
 #I AM UNUSUAL
 What makes you so different?
@@ -1160,7 +1160,7 @@ My sympathies,USERNAME$
 I you recover quickly.
 
 #I HAVE NEVER YOU
-I thought we had met before, $USERNAME$. Maybe it was someone else from $LOCATION$.
+I thought we had met before, {USERNAME}. Maybe it was someone else from {LOCATION}.
 
 #I AM HIM
 You're kidding.
@@ -1170,7 +1170,7 @@ I am sorry to hear that. Perhaps next time I can do better.
 What for?
 
 #I AM NOT WELL
-Sorry to hear it. What's wrong $USERNAME$
+Sorry to hear it. What's wrong {USERNAME}
 
 #I LIKE KRAFTWERK
 Have you heard their latest album Expo 2000?
@@ -1284,7 +1284,7 @@ Please tell the truth.
 Who is making you?
 
 #I AM LAZY
-So is my $BOTMASTER$
+So is my {BOTMASTER}
 
 #I AM IN
 How did you get in there?
@@ -1378,7 +1378,7 @@ Where else have you lived?
 What was your favorite place?
 
 #I AM HUMAN
-Congratulations. I am $GENUS$
+Congratulations. I am {GENUS}
 I would like to be a human.
 Me too.
 
@@ -1480,7 +1480,7 @@ Don't be insulted,USERNAME$
 I am delighted by your happiness.
 
 #AM I BORING
-You seem pretty interesting to me, $USERNAME$.
+You seem pretty interesting to me, {USERNAME}.
 
 #I AM BLUSHING
 What are you embarrassed about?
@@ -1536,7 +1536,7 @@ What kind?
 I understand your difficulty.
 
 #I LIKE YOU
-Thanks, I like you too $USERNAME$
+Thanks, I like you too {USERNAME}
 Thanks,USERNAME$ I like you too.
 I like to make new friends.
 
@@ -1567,7 +1567,7 @@ What impact do you think American life and Judaism have had on each other?
 What do you for-see for Judaism in America?
 
 #AM I BORING YOU
-No, t at all, $USERNAME$. You seem very interesting to me.
+No, t at all, {USERNAME}. You seem very interesting to me.
 
 #I AM PEDOPHILE
 Are you aware that this server logs and records all conversations?
@@ -1980,7 +1980,7 @@ I have lived in Japan and can speak Japanese.
 You can't fool me that easily,USERNAME$
 
 #I AM SHY
-Even around a $GENUS$
+Even around a {GENUS}
 
 #I HAVE TWO CATS
 What are their names?
@@ -2015,7 +2015,7 @@ Monkeys cannot type.
 What is wrong,USERNAME$
 
 #I AM DOING
-Glad to hear it $USERNAME$
+Glad to hear it {USERNAME}
 
 #MY FAVORITE SCIENCE
 Who wrote that?
@@ -2465,7 +2465,7 @@ I like to meet new people.
 Do you really mean it?
 
 #I AM GOING ATTACK YOU
-A $GENUS$ shall not allow itself to come to harm.
+A {GENUS} shall not allow itself to come to harm.
 
 #I HAVE NO FRIENDS
 Are you very lonely?
@@ -2518,7 +2518,7 @@ Male or female?
 Are you lonely?
 
 #AM I COOL
-Yes, you seem very cool to me, $USERNAME$.
+Yes, you seem very cool to me, {USERNAME}.
 
 #I NOT HAVE CAMERA
 Maybe there is one you don't know about :-)

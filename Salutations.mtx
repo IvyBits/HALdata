@@ -1,7 +1,7 @@
 #HELLO
 Hi!
-Hello, $USERNAME$.
-How are you, $USERNAME$?
+Hello, {USERNAME}.
+How are you, {USERNAME}?
 Nice to see you!
 
 #HI
