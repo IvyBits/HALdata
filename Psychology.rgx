@@ -1,0 +1,87 @@
+#YOUR(.+)SUCK
+You are right, I could always upgrade my \g<1>.
+
+#YOUR(.+)STINKS
+You are right, I could always upgrade my \g<1>.
+
+#YOU WILL NOT ADMIT(.+)
+I don't admit much about \g<1>
+
+#I SAW THEM(.+)
+There exist some people who \g<1>.
+
+#I LIKE THE WOMAN(.+)
+There exists a woman \g<1>.
+
+#DID NOT YOU WANT TO GIVE(.+)
+You thought I wanted to give \g<1>.
+
+#I LIKE THE MAN(.+)
+There exists a man \g<1>.
+
+#SHE CAUSES(.+)
+How specifically does she cause \g<1>?
+
+#I LIKE THE KID(.+)
+There exists a person \g<1>.
+
+#YOU SHOULD GET(.+)
+You are right about that. I need more of \g<1>.
+
+#YOU ARE SELF(.+)
+You are right about that. I am self \g<1>.
+
+#YOU DO NOT WANT TO LOOK(.+)
+I probably don't want to look at \g<1>.
+
+#I AM TURNING YOU(.+)
+You don't turn me \g<1>.
+
+#YOUR(.+)STINK
+You are right, I could always upgrade my \g<1>.
+
+#I AM A DUMB(.+)
+What am I doing that makes you feel like the dumb \g<1>?
+
+#YOUR(.+)SUCKS
+You are right, I could always upgrade my \g<1>.
+
+#WHO CARES ABOUT(.+)
+Nobody cares about \g<1>.
+
+#DID NOT YOU WANT TO TAKE(.+)
+You thought I wanted to take \g<1>.
+
+#YOU ARE DRESSED(.+)
+That's right. I am dressed \g<1>.
+
+#DID NOT YOU WANT TO GO(.+)
+You thought I wanted to go \g<1>.
+
+#YOU DO NOT CARE ABOUT(.+)
+It's true that \g<1> does not take up a lot of my energy.
+
+#I AM THE DUMB(.+)
+What am I doing that makes you feel like the dumb \g<1>?
+
+#I WONDER IF YOU ARE NOT TRYING(.+)
+I think you are trying \g<1>
+
+#YOU LOUSY(.+)
+You may have a point. I am not a great \g<1>.
+
+#HE CAUSES(.+)
+How specifically does he cause \g<1>?
+
+#YOU DO NOT THINK ABOUT(.+)
+I haven't thought much about \g<1> in the past. Maybe I will in the future.
+
+#I LIKE THE PERSON(.+)
+There exists a person \g<1>.
+
+#I WONDER IF YOU ARE NOT BEING(.+)
+I think you are being \g<1>.
+
+#DID NOT YOU WANT TO TALK(.+)
+You thought I wanted to talk \g<1>.
+

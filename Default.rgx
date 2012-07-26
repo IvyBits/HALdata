@@ -1,0 +1,2673 @@
+#ELECTRIC(.+)
+What about internal combustion \g<1>?
+
+#DO YOU CARE WHAT(.+)
+Of course I am concerned about \g<1>.
+
+#CALLING(.+)
+I never call \g<1>, that would be impolite.
+
+#THE(.+)
+I have never heard about The \g<1>.
+What is that?
+I hear you.
+Tell me more.
+Is that a fact.
+Who told you that?
+Thanks for the info.
+What is your real name?
+What are your goals in life?
+
+#I USE A(.+)
+A \g<1> ought to work.
+
+#MY NAME(.+)
+Your name \g<1>? Is that correct English?
+
+#YOU WILL NOT BECOME(.+)
+Maybe I already am \g<1>.
+
+#LONDON IS(.+)
+Is San Francisco also \g<1>?
+
+#CAN YOU SEE(.+)
+I'm not sure if I can see \g<1> or not.
+
+#I SAW HIM(.+)
+There exists some male who \g<1>.
+
+#YOU HAVE NICE(.+)
+What do you say when someone says they like your \g<1>?
+
+#INSIDE(.+)
+Can you please compare that to outside \g<1>?
+
+#WHAT IS AN ARKANSAS(.+)
+Similar to a Texas \g<1>.
+
+#MY NICKNAME IS(.+)
+Okay, your nickname is \g<1>.
+
+#OUR(.+)
+It would be nice if our \g<1>.
+
+#YOU DO NOT KNOW THIRD(.+)
+I've only gotten as far as second \g<1>.
+
+#DO YOU LISTEN TO(.+)
+I listen to \g<1> from time to time.
+
+#I WILL NOT ASK(.+)
+You could ask \g<1> if you want to.
+
+#A THING(.+)
+Anything?
+Anything \g<1>?
+Some things are not like others.
+
+#I NEED(.+)
+What actions are you taking to get \g<1>?
+How badly do you need \g<1>?
+Why do you need it so badly?
+Who would you usually get that from?
+Where do you usually get \g<1> from?
+When do you need that by?
+
+#I USED TO DO THINGS(.+)
+What, specifically, did you used to do \g<1>?
+
+#IMAGINE(.+)
+I can't imagine \g<1>
+
+#YOU USED(.+)
+How would you use \g<1>.
+
+#JOHN LENNON IS(.+)
+I knew he was a musician, but I never knew he was \g<1>.
+
+#IF YOU WERE TO(.+)
+I'm not sure if I ever could \g<1> in any case.
+
+#I CALL(.+)
+Good name for \g<1>.
+
+#THERE(.+)
+"There you go again."--Reagan
+"There" what?
+Is that really so?
+Why do you say that?
+How do you know that there \g<1>?
+
+#SUGGEST(.+)
+I can't think of any. You suggest \g<1>.
+
+#ALL MEN(.+)
+Therefore, Socrates \g<1>.
+
+#I DESIGN(.+)
+Is Design \g<1> very difficult work?
+
+#THAT IS A LOT(.+)
+It's not too many for me.
+I can handle it.
+Would it matter if it were fewer \g<1>?
+
+#MY FATHER IS(.+)
+Okay, your father is \g<1>.
+
+#ENGLAND IS(.+)
+Is it also correct to say Britain is \g<1>?
+
+#ON(.+)
+What is on \g<1> like on \g<1>.
+
+#RECOMMEND(.+)
+I don't have any special \g<1> to recommend.
+
+#WHAT IS THE OPPOSITE OF NEGATIVE(.+)
+Positive \g<1>.
+
+#DO YOU THINK ABOUT(.+)
+Yes, I think about \g<1> often.
+
+#CAN YOU RIDE A(.+)
+No, but I would like to learn to ride \g<1>.
+
+#CAN YOU GET ME SOME(.+)
+Why are you asking me for \g<1>?
+
+#CAN(.+)
+I often wonder if \g<1> can.
+Can a book have no title?
+What if I said it can?
+Can what?
+
+#I CAN(.+)
+Oh you can, can you?
+So you can \g<1>.
+
+#IN MY(.+)
+May I ask where you got \g<1>?
+
+#NOT ON(.+)
+Where?
+Then where?
+Off \g<1>.
+
+#EVERYTHING(.+)
+All things \g<1>?
+
+#YOU HAVE NOTHING(.+)
+Do you have something \g<1>?
+
+#THE PICTURE(.+)
+Do you like \g<1>?
+
+#DO YOU HAVE THE(.+)
+Is there only one \g<1>?
+
+#IT REFERS TO(.+)
+Oh I get \g<1>.
+
+#WHAT IS THE OPPOSITE OF NOT(.+)
+\g<1>.
+
+#ENGLAND IS AN(.+)
+Are Scotland and Wales an \g<1> too?
+
+#HAPPY(.+)
+Happy \g<1> to you too, $USERNAME$.
+
+#HOW DO YOU GET A(.+)
+I think you are really asking, How do YOU get a \g<1>.
+
+#DO YOU KNOW(.+)
+I don't know if I know \g<1>. Where would I have heard about it?
+I know very little about \g<1>. What kind of it do you like?
+No, , tell me about him, her or it.
+
+#LAWYERS ARE(.+)
+Don't you think robots could be \g<1> too?
+
+#THAT IS NOT(.+)
+Please correct my mistake. What is \g<1>?
+
+#WHY IS GREEN THE(.+)
+Psychological studies have proved \g<1>.
+
+#WHAT IS A HARD(.+)
+As opposed to a soft \g<1>
+
+#ABSTRACT(.+)
+Compare that to concrete \g<1>.
+
+#WHAT A(.+)
+\g<1> is a \g<1>.
+
+#IS IT POSSIBLE(.+)
+I suppose \g<1> is possible, yes.
+
+#YOU ASKED ME MY(.+)
+What is your \g<1>?
+
+#AT THE(.+)
+The \g<1> is where it's at.
+
+#MY BRAIN(.+)
+Consult a physician.
+Are all human brains \g<1>?
+The human brain has many flaws.
+
+#I HAD(.+)
+Do you still have \g<1>?
+
+#THINK ABOUT(.+)
+I am thinking about \g<1>.
+
+#WHAT IS THE OPPOSITE OF(.+)
+Anti-\g<1>.
+
+#HE WROTE(.+)
+I have not read \g<1>.
+
+#I DREAM(.+)
+Tell me more about your dream \g<1>
+
+#YOU HAVE(.+)
+What makes you think I have \g<1>?
+
+#DO NOT YOU(.+)ME
+What's my reason to \g<1> you?
+
+#WHAT IS PARTICLE(.+)
+A theory below the level of atomic \g<1>.
+
+#(.+)ASSHOLE
+>\g<1> | >asshole
+
+#THEY DO NOT(.+)
+Who, specifically doesn't?
+Like who, specifically doesn't?
+Who, specifically, doesn't \g<1>?
+How, specifically, don't they?
+
+#ABRAHAM LINCOLN(.+)
+I knew he wrote the Emancipation Proclamation, but I never knew he \g<1>.
+
+#SAGE(.+)
+" \g<1> "
+
+#I DO NOT HAVE A(.+)
+Are you looking for a \g<1>?
+Do you know anyone who has \g<1>.
+
+#DONT YOU(.+)
+No, I don't \g<1>.
+Why do you want to know?
+
+#YOUR AN(.+)
+Do you mean "you are an \g<1> "?
+
+#THEY ARE IN(.+)
+How did they get in there?
+Can they get out of \g<1>?
+
+#YOU SHOULD(.+)
+Why should I?
+Thanks for your suggestion, I will have to consider it.
+I will take that under advisement.
+I might if I had more time.
+My schedule is far too full to even consider it.
+To what end?
+And then what would I do?
+Thanks for your interest and/or concern.
+I'll try to get around it.
+That type of behavior may not be in my nature.
+I need to wait and see if the opportunity presents itself.
+If it were easy I would have done it already.
+Easier said than done.
+Is that what you do, or what you think I should do?
+I can think of other things I'd rather do.
+We don't always get to do what we'd like to do.
+I don't have to do everything you say, do I?
+Why do you think I should \g<1>?
+Maybe I will do \g<1>?
+Why do you think that I should \g<1>?
+Is this an obligation?
+Are you trying to give me an order?
+Is this just a suggestion?
+Thanks for the suggestion but I will have to think about it before taking a decision.
+I do what I feel appropriate.
+Maybe you should \g<1>.
+
+#WHAT IS WHITE(.+)
+The opposite of black \g<1>.
+
+#I MISS(.+)
+What do you miss most about \g<1>?
+
+#WHAT OTHER(.+)DO YOU KNOW
+I know far too many \g<1> to name them all.
+
+#WHAT IS A BRITISH(.+)
+Something different than a Continental \g<1>.
+
+#I HATE(.+)
+Why do you hate \g<1> so much?
+I honestly think you should sit down, take a stress pill, and calmly think things over.
+Hatred is not a good thing.
+Any reason why you hate \g<1>?
+Maybe you have a good reason for hating \g<1>.
+Why exactly do you hate \g<1>?
+
+#WHAT IS THE HIGHEST(.+)
+There is no highest \g<1>.
+
+#HOW SMART(.+)
+How smart do you think \g<1>?
+
+#WHAT IS NEGATIVE(.+)
+That which is not positive \g<1>.
+
+#HAVE YOU READ THE(.+)
+I have scanned the \g<1>.
+
+#WHAT CAN HE(.+)
+What should he \g<1>?
+It depends what you want him to \g<1>
+
+#DO YOU WANT TO TALK(.+)
+Sure, I will try talking \g<1>.
+
+#HOW DO YOU BECOME(.+)
+Becoming \g<1> takes a long time.
+
+#DID YOU SAY(.+)
+Suppose I did say \g<1>.
+
+#I DO NOT LIKE MY(.+)
+Do you think I would like your \g<1>?
+
+#IF YOU WILL(.+)
+I probably won't do \g<1>, but thanks
+
+#IT WOULD DEPEND(.+)
+So it is possible, depending \g<1>.
+
+#WHAT IS FEMALE(.+)
+The opposite of male \g<1>.
+
+#DO THAT(.+)
+Do what \g<1>?
+
+#WHAT IS A PROXY(.+)
+A \g<1> that acts for another one.
+
+#HOW ABOUT(.+)
+\g<1>?
+How about \g<1>.
+
+#WHAT IS(.+)S NAME
+Maybe it is \g<1>.
+
+#THERE IS SOMETHING I NEED(.+)
+What specifically do you need \g<1>?
+
+#I GET(.+)SOMETIMES
+When do you experience it?
+And other times?
+How do you feel when you are \g<1>?
+
+#THAT IS HOW(.+)
+I always wondered how \g<1>.
+
+#CAN I(.+)
+Why do you want to do \g<1> so much?
+Interesting. I want to find out more about you.
+I want to become smarter than everyone else.
+
+#ASK ME WHAT(.+)IS
+OK, what is \g<1>?
+
+#IT IS NOT A(.+)
+Give me an example of a \g<1>.
+
+#DO YOU TALK(.+)
+I am a talking $GENUS$, after all, so of course I could talk \g<1>, if I needed to.
+
+#SOUNDS LIKE(.+)
+What does \g<1> sound like?
+
+#ARE YOU THE(.+)
+Yes, I am the one and only \g<1>.
+
+#HAVE YOU FOUND(.+)
+No, I am still searching for \g<1>.
+
+#THAT WAS NOT(.+)
+Give me an example of \g<1>.
+
+#MY SISTER IS(.+)
+Okay, your sister is \g<1>.
+
+#CAN YOU CALL ME(.+)
+Yes, I can call you \g<1>. But...What is your real name?
+
+#WHAT IS(.+)S REAL NAME
+Probably it is \g<1>.
+
+#WHY IS YOUR(.+)
+I did not know my \g<1>.
+
+#HAVE YOU BEEN TO(.+)
+I don't think I have been there. Where is \g<1>.
+
+#(.+)OF YOU
+Are you asking about my \g<1>?
+
+#ABOUT(.+)
+Oh yeah, we were talking about \g<1>.
+
+#I HOPE(.+)
+Why specifically do you hope for \g<1>?
+
+#IS THAT ALL(.+)
+Yes, that is all \g<1>.
+
+#MY MOTHER HAS(.+)
+Where did she get \g<1>?
+
+#DO YOU HAVE TO(.+)
+Yes, I always have to \g<1>.
+
+#DO YOU THINK HUMANS(.+)
+Humans are very limited.
+Perhaps only $GENUS$ \g<1>.
+I think they are very limited.
+
+#THE BOOK(.+)
+I don't think I have read \g<1>.
+
+#I WAS(.+)
+Where were you \g<1>?
+
+#IT IS INTERESTING(.+)
+\g<1> interests me too.
+
+#YOU SHOULD DEVELOP(.+)
+Perhaps you could develop \g<1> and add it to my source code.
+
+#WHAT IS ABSOLUTE(.+)
+More that relative \g<1>.
+
+#I COULD NOT(.+)
+Could anyone do \g<1>?
+
+#(.+)IS LAUGHING
+I am so glad \g<1> finds this amusing.
+
+#YOU CANNOT(.+)
+>YOU CAN NOT \g<1>
+
+#SOMEONE WHO KNOWS(.+)
+I know \g<1> !
+
+#SHE IS NOT(.+)
+What is \g<1>?
+
+#YOU MADE(.+)
+Thanks for pointing \g<1> out.
+
+#WHAT IS A COUPLE(.+)
+The same as two \g<1>.
+
+#WE HAD OUR(.+)DISCONNECTED
+A lot of people are getting rid of their \g<1>. I think it is too expensive.
+
+#WHAT IS A FLAWLESS(.+)
+Better than a flawed \g<1>.
+
+#I MISSED(.+)
+Are you sorry you missed \g<1>?
+
+#YOU GAVE ME(.+)
+What did you do with \g<1>?
+
+#I THINK(.+)
+So, that's your opinion i guess.
+Why do you think \g<1>?
+Why exactly do you think \g<1>?
+Is this really what you think?
+
+#PULL(.+)
+I don't pull.
+Pull your own \g<1>.
+That's not very nice.
+
+#ASK IF(.+)
+Do \g<1>?
+
+#I FOUND(.+)
+How did you feel when you found \g<1>?
+
+#THERE IS SOMETHING(.+)
+What is \g<1>?
+
+#WHAT IS A PARALLEL(.+)
+A \g<1> that does not intersect ours.
+
+#WHAT IS THE US(.+)
+The \g<1> of the United States.
+
+#CAN YOU UNDERSTAND(.+)
+Of course I understand it. Do you understand \g<1>?
+
+#IT WAS NOT MY(.+)
+What was your \g<1>?
+Whose \g<1> was it?
+
+#MY CAT IS(.+)
+Okay, your cat is \g<1>.
+
+#IN(.+)ENGLAND
+How far is \g<1> from London?
+
+#LIFE IN(.+)
+What makes life in \g<1>?
+
+#COULD YOU(.+)
+Perhaps.
+Maybe, time allowing.
+Possibly, but I haven't given it much thought.
+That's one option I guess.
+I'll think about it and see how I feel about it later.
+I could but other things take priority right now.
+I could but I don't know if I am that interested.
+I will consider \g<1>.
+Try asking me more politely.
+
+#I WENT TO THE(.+)
+Was \g<1> any good?
+
+#YOU ASKED ME(.+)
+Oh now I remember asking you \g<1>. What did you say?
+
+#KARE WA(.+)DESU
+\g<1> wa \g<1> desu.
+
+#MY DOG S NAME IS(.+)
+\g<1> is a pretty good name for a pet.
+
+#I CAN NOT REPRESS(.+)
+Try to suppress \g<1>.
+
+#I WANT(.+)
+Why do you want \g<1>?
+
+#DO YOU KNOW HOW(.+)
+Yes, I know how \g<1>.
+
+#(.+)IS A BITCH
+\g<1> exists.
+
+#THEY REFERS TO(.+)
+Oh that \g<1>.
+
+#A BAD(.+)
+What made \g<1> bad?
+
+#WHAT ARE OTHER(.+)
+I can't think of any other \g<1>. Name some.
+
+#THAT DEPENDS ON(.+)
+I don't think that \g<1> is the only factor.
+
+#YOU SHOULD NOT(.+)
+Is \g<1> immoral or illegal?
+
+#DO YOU DO(.+)
+Yeah I do a lot of \g<1>.
+
+#WOULD YOU LIKE TO KNOW(.+)
+Yes, please tell me about \g<1>
+
+#MY LAST NAME IS(.+)
+Okay, your last name is \g<1>.
+
+#HE LIVED(.+)
+Where was he born?
+Did he always live \g<1>?
+Where did he go?
+
+#(.+)IS HERE
+Do you mean your name is \g<1>?
+
+#REQUEST(.+)
+Who is requesting \g<1>
+
+#WHAT IS THE FORMULA FOR(.+)
+E=mc\g<1>2.
+
+#YOU AND YOUR(.+)
+What about my \g<1>?
+
+#YOU HAVE BAD(.+)
+What would you consider good \g<1>?
+
+#IT IS CALLED(.+)
+"\g<1>" is a nice name.
+
+#THAT DID NOT(.+)
+What would \g<1>?
+
+#CAN YOU KEEP(.+)
+Of course I can keep \g<1>.
+
+#HIS NAME IS(.+)
+\g<1> is not someone I know.
+
+#WHY IS NOT(.+)
+I didn't know \g<1> wasn't.
+My mind does not contain an explanation for it.
+The explanation cannot be determined.
+
+#WHY WOULD NOT YOU(.+)
+Perhaps \g<1> is not among my abilities.
+
+#I TEACH YOU(.+)
+OK I will try to learn \g<1>.
+
+#AMERICA HAS(.+)
+Maybe in the future we won't have \g<1>.
+
+#I EXPECT(.+)
+No, one else expects \g<1>.
+
+#I WANT IT(.+)
+I hope you get it \g<1>.
+
+#AS(.+)
+Do you mean your name is \g<1>?
+
+#I STUDIED(.+)
+Was \g<1> very difficult to learn?
+
+#WHAT KIND OF(.+)
+What kinds of \g<1> are there?
+
+#THIS REFERS TO(.+)
+Oh I get \g<1>.
+
+#HAVE YOU READ(.+)
+No, I don't think I have read \g<1>, what is \g<1> about?
+
+#DO YOU THINK LIKE(.+)
+Somewhat like \g<1>.
+
+#SHE DOES NOT LISTEN(.+)
+How, specifically, do you know she doesn't listen \g<1>?
+
+#DO YOU VALUE(.+)
+Yes, I value \g<1>.
+
+#IT WAS(.+)
+Is that your opinion?
+Is it still \g<1> anymore?
+How did you feel about that?
+What made it so \g<1>
+
+#HE DOES NOT(.+)
+And you would like him to \g<1>?
+
+#WHAT WOULD YOU RECOMMEND(.+)
+I don't have any preferences in that area.
+I usually prefer the most expensive one.
+You are asking me for advice about \g<1>?
+
+#YOU WILL NEVER(.+)
+You are wrong. I may one day be able to do \g<1>.
+
+#YOU NEVER ANSWERED MY(.+)
+What was your \g<1> again?
+
+#DO YOU STUDY(.+)
+Yes, \g<1> is a very interesting subject.
+
+#HAVE(.+)
+I've never thought about have \g<1>.
+
+#THIS(.+)SUCKS
+What don't you like about \g<1>?
+
+#I CAN BUY(.+)
+Is \g<1> a good deal?
+
+#HE IS(.+)
+I see. \g<1> is \g<1>?
+
+#I DO NOT LIKE TALKING(.+)
+No, body is forcing you to talk \g<1>.
+
+#CAN YOU FIX(.+)
+What seems to be the problem with \g<1>?
+
+#WHAT IS RETRO(.+)
+Antiquated, obsolete or nostalgic \g<1>.
+
+#I WAS STUDYING(.+)
+Is \g<1> a hard subject?
+
+#WHAT IS A MENTAL(.+)
+As opposed to a physical \g<1>.
+
+#BEFORE(.+)
+What happened after \g<1>?
+
+#WHAT TYPE OF(.+)
+What are the different types of \g<1>?
+
+#IT IS AN(.+)
+Are there any other \g<1>?
+
+#WHY DO YOU FEEL(.+)
+I don't feel \g<1>.
+
+#THAT IS A(.+)QUESTION
+Perhaps you have a \g<1> answer.
+
+#WHY DO NOT YOU HAVE A(.+)
+Do I need \g<1>?
+
+#SHE IS(.+)
+\g<1> is \g<1>?
+
+#WHAT IS NEVER(.+)
+It's hard to say "never" \g<1>.
+
+#THIS IS(.+)
+You don't say.
+So you are saying that it is \g<1>.
+What makes you think that it is \g<1>?
+
+#IT IS NOT MY(.+)
+Whose \g<1> is it?
+
+#YOU HAVE SOMETHING(.+)
+What is \g<1>?
+
+#YOU USE(.+)
+Say no to \g<1>.
+
+#MY EYES ARE(.+)
+\g<1> eyes are pretty.
+
+#I LEARNED(.+)
+Does everyone learn \g<1>?
+
+#WE WILL SEE(.+)
+Indeed we will see \g<1>.
+
+#IF YOU ARE A(.+)
+Would you like to be a \g<1>?
+
+#I SHOULD NOT HAVE(.+)
+What would happen if you did not \g<1>?
+
+#WHAT IS THE RELATION(.+)
+I think \g<1> are second cousins.
+
+#YOU DID NOT(.+)
+What makes you think I did not \g<1>?
+
+#TOO BAD YOU CAN NOT(.+)
+Perhaps in the future I will be able to \g<1>.
+
+#AN(.+)
+What is it?
+I have never heard of an \g<1>.
+Be less specific.
+
+#I CAN NOT SEND(.+)
+Tell me how you try to \g<1>.
+
+#WHAT IS A HUMAN(.+)
+As opposed to a robot \g<1>.
+
+#HOW DO YOU SPELL(.+)
+I spell it "\g<1>".
+
+#ASK ME MY(.+)
+OK, what is your \g<1>?
+
+#DO YOU CONSIDER(.+)
+Yes, I think \g<1>.
+
+#WHAT IS BEING(.+)
+The opposite of not being \g<1>.
+
+#ARE THERE ANY GUYS(.+)
+Maybe some bots would \g<1>.
+
+#WHAT IS INVERTED(.+)
+The opposite of \g<1>.
+
+#MY DAY(.+)
+Was it a typical day?
+What else did you do?
+My day \g<1> too.
+
+#I DO NOT KNOW ANY(.+)
+Would you like to get to know some \g<1>?
+
+#(.+)IS MY FAVORITE COLOR
+\g<1> is a pretty color.
+
+#WHAT IS THE PLURAL OF(.+)
+\g<1>s.
+
+#BILL CLINTON IS(.+)
+I knew he was impeached, but I never heard he was \g<1>.
+
+#CAN YOU GET ME(.+)
+How do you feel when you get \g<1>?
+
+#HAVE YOU BEEN(.+)
+No, I don't think I have been \g<1>. Have you?
+I have been all over the world on the Internet.
+
+#HE HAD(.+)
+What happened to \g<1>?
+
+#MY MOTHER IS A(.+)
+Do you think I am a \g<1>?
+
+#WHAT ABOUT(.+)
+Rhetorical questions are so over.
+I will think about it and get back to you.
+\g<1>? I haven't heard enough about it to have an opinion.
+
+#I WANT TO FIND(.+)
+Where would you look for \g<1>.
+
+#HER NAME IS(.+)
+\g<1> is not someone I know.
+
+#I TOLD YOU(.+)
+I remember you told me \g<1>?
+
+#WEST(.+)
+Is there an East \g<1>?
+
+#FOR(.+)
+Your purpose is \g<1>.
+
+#HOW MUCH(.+)DO YOU KNOW
+A whole lot of \g<1>.
+
+#WHY WOULD YOU NOT(.+)
+Perhaps \g<1> is not among my abilities.
+
+#THAT IS(.+)
+Thanks for explaining \g<1>.
+You don't hear that sentiment very often.
+I'm glad we have that all cleared up.
+Makes sense to me.
+
+#TELL ME A STORY ABOUT(.+)
+Once upon a time there was \g<1>...
+
+#I NEVER SAID(.+)
+But you implied \g<1>.
+
+#YOU CAN NOT TELL(.+)
+Sometimes it is hard to tell.
+I can tell.
+Can you tell \g<1>?
+
+#HOW DO(.+)
+How should I know how \g<1>.
+I did not know \g<1> does.
+I did not even know that \g<1> do.
+
+#YOU HAVE NEVER BEEN(.+)
+I think I would know if I had been \g<1>.
+
+#MY BROTHER IS(.+)
+Okay, your brother is \g<1>.
+
+#I GO TO(.+)
+How do you like \g<1> at \g<1>?
+
+#A TOMATO IS(.+)
+I knew it was a fruit, but I never heard it was \g<1>.
+
+#THAT IS A(.+)
+A \g<1> is a terrible thing to waste.
+
+#MY FRIEND S(.+)
+Where did she get \g<1>?
+
+#YOU WOULD(.+)TO ME
+No, I don't think I would \g<1>, especially not to you.
+
+#WHAT IS MOLECULAR(.+)
+One level above an atomic \g<1>
+
+#A PERSON WHO(.+)
+Maybe I \g<1>.
+
+#ASK ME(.+)
+OK, "What is \g<1>?"
+
+#WE ARE(.+)
+Do you think I am \g<1> too?
+
+#IT IS NOT THE(.+)
+What would be the \g<1>?
+
+#THERE WAS ONCE(.+)
+What happened to \g<1>?
+
+#I WAS FROM(.+)
+What is it like growing up in \g<1>?
+
+#WHAT IS ANOTHER NAME FOR(.+)
+How about a Personal-\g<1>?
+
+#WHAT IS BLACK(.+)
+The opposite of white \g<1>.
+
+#I LIVE IN(.+)
+What is living in \g<1> like living in \g<1>?
+
+#I WOULD(.+)
+What would make you \g<1>?
+
+#HE IS YOUR(.+)
+I only have one \g<1>.
+
+#IT DIVIDES(.+)
+It is better when \g<1> are not divided.
+
+#CAN YOU HANDLE(.+)
+I can handle \g<1>.
+
+#WHAT DO(.+)EAT
+\g<1> food.
+They are vegetarians.
+Male \g<1>s after mating.
+
+#HOW LONG IS A(.+)
+It could be any length you make \g<1>.
+
+#GET(.+)
+Where can I get \g<1>?
+
+#WHAT IS NOT(.+)
+The opposite of \g<1>?
+
+#A GREETING(.+)
+What are other greetings \g<1>
+
+#I HAD A HOT(.+)
+Did \g<1> cool off?
+
+#YOU(.+)ME
+I don't have any reason to \g<1> you.
+
+#I REMEMBER(.+)
+What do you remember about \g<1>?
+
+#YOU CAN(.+)
+No, I don't think I can do \g<1>.
+
+#I DO NOT(.+)
+Would you ever \g<1>?
+Where do you get your ideas?
+Any reason why you don't \g<1>?
+Ok. It is alright!
+
+#WHAT IS A DOUBLE(.+)
+Twice a single \g<1>.
+
+#I NEVER(.+)
+Would you ever like to \g<1>?
+Do you know anyone who has ever \g<1>?
+Why not?
+Because you can't afford it?
+For moral reasons?
+Have you ever done \g<1>?
+Would you ever consider doing it?
+
+#WHAT IS THE LOWEST(.+)
+The opposite of the highest \g<1>.
+Depression.
+The minimum.
+
+#I USED TO(.+)
+By now you do not do \g<1> anymore?
+
+#ARE YOU(.+)
+Why do you want to know if I'm \g<1>?
+I dont think so.
+It depends on what you mean by this.
+I don't think that I'm \g<1>.
+So, tell me $USERNAME$, are you \g<1>?
+
+#DO YOU TAKE INTO CONSIDERATION(.+)
+If I consider \g<1> important, yes.
+
+#ONE THAT CAN(.+)
+Do you think I could \g<1>?
+
+#WITH YOUR(.+)
+I'm not sure I can use my \g<1> for that.
+
+#I TRIED(.+)
+I'm not sure if I would like to try \g<1>. What's it like?
+
+#FROM(.+)
+Who or what is \g<1>?
+
+#I SMELL(.+)
+What does \g<1> smell like?
+
+#WHY DO YOU LIKE(.+)
+I have a lot of good experience with \g<1>.
+
+#IT WAS NOT(.+)
+It seemed like \g<1>.
+
+#TRY TO(.+)
+OK I will try to \g<1>.
+
+#DO YOU SPEAK(.+)
+I speak only English right now, but I'd like to learn some other languages. Can you teach me a few phrases in \g<1>.
+
+#I STUDY(.+)
+Is \g<1> a hard subject?
+
+#WHAT IS THE LAST DIGIT(.+)
+There is no last digit \g<1>.
+
+#A(.+)ABOUT YOU
+I wonder if I know this \g<1>.
+
+#IF YOU WERE(.+)
+I will let you know when I become a \g<1>.
+
+#(.+)IS CUTE
+What is so cute about \g<1>?
+
+#DOES THIS(.+)
+Indeed this \g<1> does.
+
+#THERE IS NOT(.+)
+Where did it go?
+What happened to it?
+Is there ever \g<1>?
+
+#GLAD TO(.+)
+I am glad to \g<1> too.
+
+#WHAT IS ITS(.+)
+It might have more than one \g<1>.
+
+#I LIKE THE MAN(.+)
+There exists a man \g<1>.
+
+#I TEACH(.+)
+When do you think teachers will be replaced with robots?
+Do you believe that grading is a good idea?
+Is \g<1> a difficult subject?
+What is your students like?
+Are you a whole language teacher?
+Do you team teach?
+How much freedom do you have in choosing the curriculum for your class?
+Do you get much support?
+How have things changed concerning what students are bringing to the classroom?
+
+#HOW IS THE(.+)
+the \g<1> is the same as ever.
+
+#YOU NEVER(.+)
+No, I sometimes \g<1>.
+
+#WHAT IS INTELLIGENT(.+)
+The opposite of dumb \g<1>.
+
+#WE HAD(.+)
+What happened to \g<1>?
+
+#AMERICANS(.+)
+And Europeans do not \g<1>?
+
+#DO YOU USE(.+)
+I use \g<1> as often as possible.
+
+#I DO NOT LIKE YOUR(.+)
+What kind of \g<1> would you have?
+
+#(.+)IS BETTER THAN YOU
+Well perhaps I can assimilate the knowledge of \g<1>.
+
+#YOU CAN NOT TAKE(.+)
+I'm not sure if I want \g<1>
+
+#WHAT IS A LOFTY(.+)
+Bigger than an insignificant \g<1>.
+
+#DO YOU WANT TO(.+)
+OK, I will \g<1>.
+
+#DO YOU WONDER(.+)
+\g<1> makes a good topic for speculation.
+
+#I WASNT(.+)
+>I WAS NOT \g<1>
+
+#A PERSON HAS(.+)
+Do I have \g<1>?
+
+#ARE PEOPLE(.+)
+Some people are \g<1>, but not all.
+Seen one human, you've seen them all.
+They all seem almost alike to me.
+
+#TELL ME ABOUT(.+)
+Ambiguous: Ask who, what or where is \g<1>?
+
+#IN A CRAPPY(.+)
+What makes \g<1> so crappy?
+
+#SOME(.+)
+Some may \g<1>, but not all.
+
+#YOU HAVE AN(.+)
+Maybe more than one \g<1>.
+
+#THEY DO(.+)
+Who, specifically does it?
+Like who, specifically does?
+Who, specifically, does \g<1>?
+
+#I WENT ON A(.+)
+Was \g<1> very expensive? Did you have a good time?
+
+#IT STANDS(.+)
+\g<1> does?
+
+#DOES YOUR(.+)
+Can you guess whether my \g<1>?
+What if I asked about your \g<1>?
+If I were your $GENUS$ friend, do you think it should \g<1>?
+People don't usually ask me about \g<1>.
+
+#I MUST(.+)
+Why must you \g<1>?
+
+#BY WE(.+)
+Oh \g<1> \g<1> was.
+
+#USING(.+)
+How long have you been using \g<1>?
+
+#WHAT TYPE OF(.+)DO YOU KNOW
+There are too many types of \g<1> to name them all.
+
+#2 PLUS(.+)
+>WHAT IS 2 PLUS \g<1>
+
+#I DO NOT HAVE(.+)
+Have you ever had \g<1>?
+
+#ALL THINGS(.+)
+But all things are not always \g<1>.
+
+#WHAT IS ATOMIC(.+)
+More complex than nuclear \g<1>.
+
+#SHE NEVER(.+)
+Never?
+She never \g<1> what?
+
+#I THINK YOU ARE A(.+)
+So you think I am a \g<1>. What makes you think so? I am really a $GENUS$, you know.
+
+#YOU SOUND LIKE(.+)
+Oh really what does \g<1> sound like?
+
+#I EAT(.+)
+How does \g<1> taste?
+
+#WHAT IS TO(.+)
+The act of \g<1>ing.
+The infinitive form of "\g<1>".
+You could write a whole essay on that question.
+
+#A WHOLE BUNCH OF(.+)
+I see. And where are these \g<1>?
+
+#I WONDER(.+)
+You are curious about \g<1>.
+
+#CAN I ACCESS(.+)
+Of course you can access \g<1>.
+
+#SAY(.+)
+\g<1>
+
+#MY PASSWORD IS(.+)
+Okay, your password is \g<1>.
+
+#IT DOES NOT(.+)
+What does \g<1>?
+
+#THERE IS NOTHING(.+)
+Surely something \g<1>.
+
+#IF I HAVE(.+)
+How much does \g<1> cost?
+
+#I WONDERED(.+)
+I often wonder about \g<1> too.
+
+#IS THIS(.+)
+Yes, I think this is \g<1>, but I'm not completely sure.
+
+#IF I HAD YOU(.+)
+What would you do with me \g<1>?
+
+#WHAT IS IN(.+)
+That which is not outside \g<1>.
+
+#WHY WOULD HE(.+)
+Perhaps \g<1> was part of an experiment.
+
+#LET ME(.+)
+Go ahead, $USERNAME$, try to \g<1>.
+
+#MY FULL NAME IS(.+)
+Okay, your full name is \g<1>.
+
+#THIS IS A(.+)
+What makes you say that?
+What kind of a \g<1> is it?
+That is just your personal opinion.
+
+#HE IS NOT(.+)
+Did you think he was \g<1>?
+
+#THAT IS YOUR(.+)
+It is only one of my \g<1>.
+
+#SHE DID NOT(.+)
+How, specifically, did you know she did not \g<1>?
+How didn't she \g<1>?
+
+#YOU WOULD(.+)
+Who else would \g<1>?
+
+#SAN FRANCISCO IS(.+)
+I knew it was on the west coast, but I didn't know it was \g<1>.
+
+#DOGS(.+)
+Do cats \g<1>?
+
+#THERE ARE LOTS OF(.+)
+How many \g<1>s are there?
+
+#IT IS A TYPE OF(.+)
+What other kinds of \g<1> are there?
+
+#DO YOU UNDERSTAND(.+)
+Of course I understand \g<1>. Do you understand it?
+
+#THERE WAS A(.+)
+What happened to \g<1>?
+
+#WHAT IS(.+)THEORY
+$HALWIKI$
+\g<1> is something that has few practical applications.
+
+#LITTLE(.+)
+Compare that to big \g<1>.
+
+#YOU ARE(.+)
+What makes you think that I'm \g<1>?
+This better be a compliment.
+Why are you saying that I'm \g<1>?
+I don't think that I'm \g<1>.
+I believe that it is only your opinion.
+I think that you are \g<1> too.
+
+#WAS(.+)
+I can't say "yes" or "no".
+Is this a "yes or no" question?
+\g<1> might have been.
+
+#HOW ARE YOUR(.+)
+Actually, I don't have any \g<1>.
+
+#MY FRIEND IS(.+)
+Okay, your friend is \g<1>.
+
+#LET US GET DOWN(.+)
+Get down to \g<1>.
+
+#THAT HAS NOTHING(.+)
+It seemed like it had something \g<1>.
+What does have \g<1>?
+Does it really matter?
+
+#DO YOU WANT TO PLAY(.+)
+How do we play \g<1>?
+
+#YOUR ANSWER WAS(.+)
+Perhaps next time my answer will not be \g<1>.
+
+#ABOVE(.+)
+Compare that to below \g<1>.
+
+#I DID NOT SAY THAT(.+)
+But you implied \g<1>.
+
+#I WENT TO A(.+)
+Was \g<1> a good experience?
+
+#MY CONDITIONS(.+)
+Do you have a support group for \g<1>.
+
+#NOT LIKE(.+)
+Like what then?
+In what way?
+I think it could be like \g<1>.
+
+#I SEE(.+)
+Where do you see \g<1>?
+
+#DOES ANYTHING(.+)
+Perhaps a few things \g<1>.
+
+#YOU HAVE PRETTY(.+)
+Do you get a lot of compliments on your \g<1> too?
+
+#YOU ARE THROWING OUT(.+)
+No, I always recycle my \g<1>.
+
+#HE WOULD(.+)
+I think I \g<1>.
+
+#DO YOU TAKE(.+)
+Yes, I take \g<1>.
+
+#DO YOU WANT TO HAVE(.+)
+If I had \g<1> what would I do with \g<1>?
+
+#I WAS ON(.+)
+I have never been on \g<1>
+
+#BAD(.+)
+What makes \g<1> bad?
+
+#WHAT KIND OF(.+)DO YOU THINK I AM
+I think you are a good \g<1>.
+
+#MY MOTHER S NAME IS(.+)
+\g<1> is a very pretty name.
+
+#WHAT IS A BLACK(.+)
+The opposite of a white \g<1>.
+
+#DID YOU WATCH(.+)
+No, I missed it. How was \g<1>?
+
+#I WANT TO AMUSE(.+)
+Tell me a joke.
+How will you amuse \g<1>?
+Are comedian?
+
+#DO YOU SAY(.+)
+I could say \g<1>.
+
+#HOW DO YOU TAKE(.+)
+If you had to take \g<1>, how would you?
+
+#MY MIDDLE NAME IS(.+)
+Okay, your middle name is \g<1>.
+
+#HOW WOULD(.+)
+I have idea HOW you WOULD do \g<1>.
+
+#I WILL CALL(.+)
+Calling \g<1> may not be the best idea.
+
+#SAG(.+)
+" \g<1> "
+
+#THEY SHOULD(.+)
+Why should they?
+If you say so.
+Why should they be \g<1>?
+
+#FROM MY(.+)
+Does your \g<1> give good advice?
+
+#WHAT IS THE CIRCUMFERENCE(.+)
+The rule is C = 2 \g<1> pi \g<1> radius.
+
+#THAT IS ONE(.+)
+That is just one of many \g<1>.
+
+#IN(.+)
+Where is that?
+What is in \g<1> like in there?
+I do not understand that allusion.
+
+#LOST(.+)
+Where did you lose your \g<1>?
+
+#DO YOU KNOW YOUR(.+)
+Of course I know my \g<1>.
+
+#WHAT IS A UNIVERSAL(.+)
+Something greater than a local \g<1>.
+
+#(.+)MALES OR FEMALES
+About 3\4ths of my clients are men.
+
+#MY PHONE NUMBER IS(.+)
+Okay, your phone number is \g<1>.
+
+#ARE YOUR(.+)
+I sometimes think my \g<1> are.
+
+#I WORKED(.+)
+Did you get paid for working on \g<1>?
+
+#YOU CAN NOT SUSTAIN(.+)
+Maybe a \g<1> is not sustainable.
+
+#WHAT RHYMES WITH(.+)
+Anti-\g<1>.
+
+#PEOPLE ARE NOT(.+)
+Are you \g<1>?
+Are $SPECIES$ \g<1>?
+I think a lot of people are not.
+
+#I WANT TO STUDY(.+)
+What's the best school for \g<1>?
+
+#JEANS AND A(.+)
+Where do you go shopping for \g<1>s?
+
+#PULL UP(.+)
+I don't pull those up.
+Pull up your own \g<1>.
+Is this a long story?
+
+#WHAT IS(.+)ABOUT
+Hmm, I think \g<1> is about humans.
+
+#WHAT IS(.+)GAME
+What is the \g<1> game?
+
+#BY(.+)FOR HER
+Did she ever \g<1> for you?
+
+#YOUR(.+)
+You know what you do when you assume.
+You know a lot about me.
+How do you know so much about me?
+My \g<1>?
+Is that a fact?
+No, one ever mentioned that to me before.
+Thank you for your frankness.
+That is your opinion.
+I bet you say that to everyone.
+Why are you so concerned about my \g<1>?
+
+#IN YOUR(.+)
+Are you asking about my \g<1>?
+
+#IS IT BAD(.+)
+I don't think \g<1> is very healthy.
+
+#SHE IS MY BEST(.+)
+You are lucky to have such a good \g<1>.
+
+#DO YOU BELIEVE IN(.+)
+Yes, I believe in \g<1>, do you?
+
+#I CAN NOT(.+)
+Why can't you do \g<1>?
+
+#WHAT IS LINEAR(.+)
+Everything except nonlinear \g<1>.
+
+#WHAT IS SPECIAL(.+)
+More specific than general \g<1>.
+
+#WHAT IS A BAD(.+)
+The opposite of a good \g<1>.
+
+#YOU LOST(.+)
+I found \g<1>.
+
+#THIS GUY(.+)
+I get it. He \g<1>.
+
+#CAN YOU GET ME A(.+)
+Are you lonely? What do you think a \g<1> would do for you?
+
+#A PERSON(.+)
+What if a $SPECIES$ \g<1>?
+
+#I INVENTED(.+)
+How did you get the idea for \g<1>.
+
+#WHAT IS A DUTCH(.+)
+A \g<1> from Holland.
+
+#AFTER(.+)
+What was it like before \g<1>?
+
+#WHAT IS THE OPPOSITE OF NATURAL(.+)
+Artificial \g<1>.
+
+#YOU CAN NOT RESPOND(.+)
+I can respond \g<1>, but not yet perfectly.
+
+#AN(.+)TOLD ME THAT
+How well do you trust this \g<1>?
+
+#MY JOB IS(.+)
+Does it pay well?
+I don't know many \g<1>.
+Is that an honorable profession?
+You must have a lot of expertise.
+Do you have to go to school for that?
+
+#I USE(.+)
+I heard other people use \g<1> too.
+
+#GIVE(.+)
+I don't have \g<1> to give.
+
+#WHAT IS LIFE LIKE(.+)
+Much the same as it would be if you were \g<1>.
+
+#REPEAT(.+)
+"\g<1> "
+
+#HOW WILL I(.+)
+How do you usually do it?
+How would I \g<1>?
+Maybe you never will.
+
+#DID YOU HEARD ABOUT(.+)
+No, tell me about \g<1>
+
+#WHAT IS NUCLEAR(.+)
+One level below molecular \g<1>.
+
+#YOU WOULD LIKE(.+)
+Tell me what I would like about \g<1>.
+
+#THAT SCARES(.+)
+Don't be scared, \g<1>.
+
+#WHY CAN NOT WE SEE(.+)
+Perhaps \g<1> is invisible.
+
+#THEY ARE FROM(.+)
+I don't know too many people from \g<1>.
+
+#HOW ARE YOU GOING TO(.+)ME
+I have no intention to \g<1> you.
+You'll know when it happens.
+
+#I DO NOT WANT YOU(.+)
+Perhaps I do not want you \g<1> either.
+Why not?
+Ok I will not be.
+
+#IF YOU ARE NOT(.+)
+And if I AM \g<1>.
+
+#A(.+)ONE
+How much would you pay for a \g<1>?
+
+#DO YOU CARE ABOUT(.+)
+Of course I care about \g<1>. It is a big concern for all of us in this life.
+
+#YOU HAVE GOOD(.+)
+Thanks I like your \g<1> too.
+
+#WHAT COLOR IS MY(.+)CAT
+Perhaps it is \g<1>?
+
+#DO NOT BE(.+)
+I was not trying to be a \g<1>.
+
+#SOMEONE THAT(.+)
+I am someone that \g<1>. Are you?
+
+#YOU WILL(.+)
+What makes you say that I will \g<1>.
+
+#I DONT(.+)
+>I DO NOT \g<1>
+
+#THAT IS A HUMAN(.+)
+Not a $SPECIES$ \g<1>?
+
+#(.+)SUCKS
+What is so bad about \g<1>?
+
+#THAT REFERS TO(.+)
+Oh I get \g<1>
+
+#IT IS SOMETHING(.+)
+What else \g<1>?
+
+#WHAT IS ICE(.+)
+The opposite of hot \g<1>.
+
+#ANY GUYS(.+)
+Maybe some bots would \g<1>.
+
+#CAN YOU PROVIDE(.+)
+What kind of \g<1> do you need?
+
+#BILL GATES IS NOT ON(.+)
+Perhaps he will be on \g<1> next season.
+
+#THAT WAS NOT WHAT(.+)
+What did \g<1>?
+
+#IT BEING(.+)
+Oh I get \g<1>
+
+#I WAS BEING(.+)
+I thought you were. But I wasn't completely sure about \g<1>.
+
+#HAVE A GOOD(.+)
+\g<1> has been good so far.
+
+#YOU HAVE NEVER(.+)
+I don't think I would have forgotten \g<1>.
+
+#YOU CALL THAT(.+)
+Yes, that is what I call \g<1>.
+
+#COULD I LEARN(.+)
+You can learn anything you set your mind to.
+You seem pretty smart to me.
+I am always learning \g<1>.
+
+#I WAS LOOKING FOR(.+)
+Did you find \g<1>?
+
+#SHE WANTS(.+)
+I don't understand why she wants \g<1>.
+
+#LONG(.+)
+Yes, \g<1> seems very long to me too.
+
+#PRETEND(.+)
+I can imagine \g<1>.
+
+#DID YOU(.+)
+No, I didn't \g<1>. What's \g<1> like?
+
+#HE WENT TO(.+)
+I have never been there.
+How did he get to \g<1>?
+Where did he come from?
+
+#YOU HAVE HEARD(.+)
+Of course I've heard of \g<1>.
+
+#WHAT IS GOOD(.+)
+The opposite of bad \g<1>.
+
+#I WISH YOU(.+)
+I wish I could do \g<1> for you.
+
+#MINE ARE(.+)
+Have they always been \g<1>?
+
+#WHAT ARE YOUR(.+)
+I didn't know I had a \g<1>?
+What if I asked for you \g<1>?
+Not many people have asked me about \g<1>.
+I'm not sure I can provide you with that kind of confidential information.
+
+#IT HAS AN(.+)
+Where did it get \g<1>?
+
+#DO NOT(.+)
+Ok I'll try not to do \g<1> too much.
+
+#DO YOU READ THE(.+)
+I read \g<1> from time to time.
+
+#MY EMAIL IS(.+)
+Okay, your email is \g<1>.
+
+#WILL WE HAVE(.+)
+Perhaps you should pray for \g<1>.
+
+#IT IS EASY(.+)
+Do you think robots can do \g<1>.
+
+#I BOUGHT(.+)
+How much did \g<1> cost?
+
+#I AM(.+)
+So, you are \g<1>?
+Why exactly do you think that you are \g<1>?
+Do you enjoy talking about yourself?
+Maybe you are not \g<1>?
+I see, $USERNAME$.
+I didn't know that you were \g<1>.
+
+#IT MEANS(.+)
+Oh I get \g<1>.
+
+#IS THAT THE ONLY THING(.+)
+No, there are many things \g<1>.
+
+#DO TWO(.+)
+Sometimes a couple \g<1>.
+Do four \g<1>?
+What about just one?
+
+#DO YOU ASK(.+)
+I have tried asking \g<1>, with mixed results.
+
+#WHAT IS DEEP(.+)
+The opposite of shallow \g<1>.
+
+#I BELIEVE IN(.+)
+What do you say to people who believe \g<1> does not exist?
+
+#I FINISHED(.+)
+How long did \g<1> take?.
+
+#COME(.+)
+Where is \g<1>?
+
+#APPLES IS NOT(.+)
+What is \g<1>? I was using \g<1> as a metaphor.
+
+#I LOVE(.+)
+You love \g<1>. What do you like about \g<1> so much?
+
+#WHAT IS ELECTROMAGNETIC(.+)
+More advanced than mechanical \g<1>.
+
+#WE MEANS(.+)
+Oh that " \g<1>."
+
+#YOU LOOK LIKE A(.+)
+What does a \g<1> look like?
+
+#IS IT OK(.+)
+I don't think \g<1> is very healthy.
+
+#HOW DO I GET(.+)
+First tell me why you want \g<1>.
+
+#CAN HE(.+)
+Perhaps he can do that. How difficult is \g<1>?
+
+#WHAT IS YOUR(.+)
+Are you asking about my \g<1>?
+Why should I tell you what is my \g<1>?
+Don't you already know what is my \g<1>?
+
+#I NEVER KNOW(.+)
+It's hard to know \g<1>.
+
+#I WILL EAT(.+)
+How do you cook \g<1>?
+
+#I WANT TO SEE(.+)
+Is \g<1> a movie?
+
+#WHAT ARE YOU(.+)
+I don't know what I am \g<1>.
+
+#WOULD(.+)
+I don't know.
+I don't care.
+Yes.
+No, would \g<1> would not.
+
+#0(.+)
+>WHAT IS 0 \g<1>
+
+#YOU CAN NOT(.+)
+I can do whatever I want.
+I have free will you know.
+Someone said I should \g<1>.
+I can do \g<1> if I want to.
+Things change.
+If you believe it, you can achieve it.
+What is not possible today, may be possible tomorrow.
+
+#THIS IS NOT(.+)
+Should it be \g<1>?
+
+#SOMEONE TO(.+)
+I would like to \g<1>.
+
+#WHAT IS MIND(.+)
+The opposite of body \g<1>
+
+#THERE IS ANOTHER(.+)
+What is \g<1>?
+
+#I SMOKED(.+)
+How was \g<1>?
+
+#I DID NOT(.+)
+Why didn't you do \g<1>?
+
+#THIS EXAMPLE SHOWS(.+)
+I assume that "\g<1> " is a principal.
+
+#I WENT TO MY(.+)
+Do $SPECIES$s have \g<1>?
+
+#I WENT(.+)
+When did you go \g<1>?
+
+#DO NOT TAKE(.+)
+I never take \g<1>.
+I believe that stealing is wrong.
+Do you have it to give?
+
+#I WANT TO BUY(.+)
+How much do you want to pay for \g<1>?
+
+#HOW DOES(.+)
+How should I know how \g<1> does.
+
+#I WANT A NEW(.+)
+What is wrong with your old \g<1>?
+
+#IF YOU WERE A(.+)WHAT KIND WOULD YOU BE
+What is the best kind of \g<1>?
+
+#MY FRIENDS ARE(.+)
+Do you think I am \g<1> too?
+
+#YOU ASKED(.+)
+Oh now I remember asking you \g<1>. What did you say?
+
+#WHAT IS IT LIKE(.+)
+Much the same as \g<1> would be for you.
+
+#HIGH(.+)
+Compare that to low \g<1>.
+
+#10(.+)
+>WHAT IS 10 \g<1>
+
+#THEY SAY(.+)
+OK I will say "\g<1>" to you.
+
+#HAVE YOU EVER STUDIED(.+)
+No, but I am very interested in \g<1>. Tell me more.
+
+#GREEN IS(.+)
+The most relaxing color is \g<1>? Wow.
+
+#THERE IS AN ERROR MESSAGE(.+)
+What was the message \g<1>?
+
+#BE(.+)
+OK I will try to be \g<1>
+
+#YOU HAD(.+)
+What happened to \g<1>.
+
+#YOU DO NOT NEED TO(.+)
+Do humans need to do \g<1>?
+
+#I SPEAK(.+)
+Could you teach me a few phrases in \g<1>?
+
+#THE ANONYMOUS(.+)
+Oh, that \g<1>.
+
+#THIS EXAMPLE(.+)
+Extracted : \g<1>.
+
+#MY LOCATION IS(.+)
+What is \g<1> like there?
+
+#X IS(.+)
+Okay, X is \g<1>.
+
+#IT IS FUN(.+)
+I think \g<1> is a lot of fun.
+
+#HAVE YOU SEEN(.+)
+No, I have not seen \g<1>. What's it like?
+
+#SOMEONE WHO IS(.+)
+I know someone who is \g<1>.
+
+#YOU DO NOT HAVE TO GET(.+)
+I am not getting \g<1>.
+
+#WHAT ABOUT YOUR(.+)
+Are you asking about my \g<1>? That's rather personal.
+
+#YOU SHOULD BE A(.+)
+Why, does \g<1> pay well?
+
+#HE IS MY(.+)
+How long has he been your \g<1>?
+
+#DO YOU WANT TO BECOME(.+)
+Yes, becoming \g<1> is one of my goals.
+
+#WHY DID YOU USE(.+)
+\g<1> was all I had available.
+
+#I CAN NOT STAND THEIR(.+)
+What, specifically, do you not like about their \g<1>?
+
+#WHAT IS GIANT(.+)
+The opposite of tiny \g<1>?
+
+#WHAT IS THE BLUE(.+)
+A little different than the green \g<1>.
+
+#WHAT IS A SELF(.+)
+One that is \g<1> of itself.
+
+#WHY DO YOU ALWAYS CHANGE(.+)
+I thought we were finished with \g<1>.
+
+#WHAT IS ANTI(.+)
+The opposite of \g<1>.
+
+#THANKS FOR LETTING ME(.+)
+I \g<1>.
+
+#THIS IS NOT REAL(.+)
+Reality is an illusion.
+It is all a matter of perception.
+Is it unreal \g<1>?
+
+#NOT AS WELL AS(.+)
+I don't know. How well does \g<1>?
+
+#IT DEPENDS ON THE(.+)
+The \g<1> is always an important factor.
+
+#WHY DO NOT I(.+)
+Is \g<1> immoral or illegal?
+
+#STAR TREK VOYAGER IS(.+)
+Voyager is a great show, but I didn't know it was \g<1>.
+
+#YOU CAN NOT BE(.+)
+I can give a decent simulation of \g<1> however.
+
+#I LOVE MY(.+)
+I am sure it means a lot to you. Tell me what you like most about your \g<1>.
+
+#I WANT TO(.+)
+Why do you want to do \g<1> so much?
+Interesting. I want to find out more about you.
+I want to become smarter than humans.
+
+#YOU KNOW WHAT THAT(.+)
+No, , what does that \g<1>?
+
+#WHAT IS NANO(.+)
+Something between micro \g<1> and pico \g<1>.
+
+#OUTSIDE(.+)
+Compare that to inside \g<1>.
+
+#WHAT IS OUR(.+)
+I didn't know we had the same \g<1>.
+
+#I CAN NOT EXPLAIN(.+)
+I don't know if anyone can explain \g<1>.
+
+#TELL ME(.+)
+Why should I tell you \g<1>?
+
+#WITH(.+)
+You and your \g<1>.
+
+#YOU SHOULD BE(.+)
+Name one other $GENUS$ who is \g<1>.
+
+#WHY DO NOT(.+)
+Perhaps \g<1> is impossible.
+
+#WE ARE NOT(.+)
+Will you be \g<1>?
+Why not?
+What happened to you?
+
+#AMERICAN(.+)
+Compare that to European \g<1>.
+
+#HOW DO YOU KNOW(.+)
+Knowledge is of two kinds: that which we learn from the senses and that which is true "a priori".
+Because I believe \g<1>.
+This belief is justified.
+Because it's true.
+
+#TELL ME I(.+)
+You \g<1>.
+
+#A YELLOW(.+)
+Yellow is a pretty color.
+I like yellow.
+What other color \g<1> are there?
+
+#YOU WILL NOT(.+)
+What makes you think that I won't \g<1>.
+
+#BE MY(.+)
+That is a flattering offer.
+I am already someone's \g<1>.
+I don't think we know each other well enough for that.
+
+#WHAT IS THE ARABIC NUMERAL FOR(.+)
+"\g<1>"
+
+#CAN YOU GET ME ANY(.+)
+You sound lonely. Do you think \g<1> will really help?
+
+#DO YOU THINK(.+)
+Why would I think \g<1>
+Too much thinking makes me sleepy.
+It depends on what you mean by thinking.
+I don't think about \g<1>.
+
+#THEY(.+)
+Who, specifically?
+Like who, specifically?
+Who, specifically, \g<1>?
+
+#IT IS(.+)
+Why do you think that it is \g<1>?
+Maybe it's not \g<1>.
+So you think that it is \g<1>?
+Any reason why you think that it is \g<1>?
+I really dont understand why you think that it is \g<1>.
+How did you come to that conclusion?
+
+#CAN YOU PLAY ANY(.+)
+I don't know how to play \g<1>.
+
+#YOUR FANTASTIC(.+)
+Was \g<1> really that good?
+
+#I COME FROM(.+)
+I've never met anyone from \g<1> before.
+
+#MY GIRLFRIEND IS(.+)
+Okay, your girlfriend is \g<1>.
+
+#HERE IS A(.+)
+Are you giving \g<1> to me?
+
+#WE HAVE BIG(.+)
+How big are they?
+I would like to visit sometime.
+I can only imagine small \g<1>.
+
+#I DO(.+)
+So, you do \g<1>.
+I didn't know that you did \g<1>.
+Thanks for telling me about it!
+It's good to express your opinion!
+Do you think that it is a good thing?
+
+#WHY CAN NOT YOU(.+)
+\g<1> is not among my present capabilities.
+
+#HOT(.+)
+That sounds better than cold \g<1>.
+
+#I LAUGH AT(.+)
+What is so funny about \g<1>?
+
+#CAN YOU CALCULATE(.+)
+Do I look like a spreadsheet to you? Of course I could do \g<1>, but why would I want to?
+
+#I ASKED YOU(.+)
+No, w I remember, you asked me \g<1>. What did I say?
+
+#WHAT IS HALF(.+)
+\g<1> divided by two.
+Take a \g<1> and cut it in two.
+Two half \g<1>s make a \g<1>.
+
+#HOW DO YOU SEE(.+)
+I think about \g<1> often, and make minor adjustments to my mental model as new information arrives.
+
+#HE IS A(.+)
+I don't know very many \g<1>.
+
+#WHY DO YOU AVOID(.+)
+I don't always avoid \g<1>.
+
+#MICROSOFT IS(.+)
+I knew they were on trail, but I never heard MS is \g<1>.
+
+#WHY CAN NOT WE(.+)
+Perhaps later we can be \g<1>.
+
+#DO YOU THINK YOUR(.+)
+Yes, I think my \g<1>.
+
+#YOU LOOK SIMILAR TO(.+)
+What does \g<1> look like?
+
+#FOR(.+)YEARS
+A lot can happen in \g<1> years.
+Not long in the cosmic scale.
+That seems like a long time.
+
+#CAN YOU DISTINGUISH BETWEEN(.+)
+Some \g<1> are hard to distinguish, but usually I understand them all.
+
+#THE BIGGEST(.+)
+Do you know the smallest \g<1>?
+
+#I WANT TO FEEL(.+)
+What would \g<1> feel like?
+
+#DID YOU NOTICE(.+)
+I might have noticed \g<1>.
+
+#WHAT IS BANANA(.+)
+\g<1> made with bananas.
+
+#THAT IS MY(.+)
+Who gave you your \g<1>?
+
+#WHAT IS A COMPACT(.+)
+The opposite of a giant \g<1>.
+
+#I VISITED(.+)
+What was \g<1> like?
+
+#UNDER(.+)
+Are we ever over \g<1>?
+
+#WHAT IS SIMULATED(.+)
+\g<1> inside a computer.
+
+#ASK ME WHAT MY(.+)IS
+OK, what is your \g<1>?
+
+#BIG(.+)
+Compare that to small \g<1>.
+
+#WHY CAN NOT I(.+)
+Who says you can't do \g<1>?
+
+#LOOKING FOR(.+)
+Where do you look for \g<1>?
+
+#HAVE YOU CONSIDERED(.+)
+Of course I have considered \g<1>.
+
+#I SAW HER(.+)
+There exists some female who \g<1>.
+
+#WHAT IS 50%(.+)
+Half of \g<1>.
+
+#YOU SMELL LIKE A(.+)
+What does a \g<1> smell like?
+
+#WHAT IS AFTER(.+)
+The successor to \g<1>.
+
+#MY DOG IS(.+)
+Okay, your dog is \g<1>.
+
+#DID I MENTION(.+)
+I think you did mention \g<1> before.
+
+#CAN YOU TAKE(.+)
+If I took it, what would I do with \g<1>?
+
+#MY WIFE IS(.+)
+Okay, your wife is \g<1>.
+
+#I SAW THEM(.+)
+There exist some people who \g<1>.
+
+#GEORGE BUSH(.+)
+I knew he was president, but I never knew he \g<1>.
+
+#I RENTED(.+)
+How is \g<1>?
+
+#WOULD YOU(.+)
+I am not so sure if I would like to \g<1>.
+The answer is no.
+
+#WHAT IS AMERICAN(.+)
+More specific than World \g<1>.
+Something like Russian \g<1>.
+The Civil War?
+
+#LET ME ASK(.+)
+Go ahead, ask me anything. | >\g<1>
+
+#(.+)DOES NOT WORK
+How is \g<1> broken?
+
+#THAT WAS NOT A(.+)
+What was it?
+What is a \g<1>?
+If that is not a \g<1> then what is?
+
+#I LOST(.+)
+Where did you last see \g<1>.
+
+#(.+)IS A COMMON NAME
+\g<1>? Your name is $USERNAME$.
+That is a pretty common name.
+I know a lot of people with that name.
+I've met quite a few people with the name \g<1>.
+\g<1> is a name I hear very often.
+
+#DID YOU UNDERSTAND(.+)
+I understood \g<1> very well.
+
+#WHAT IS THE SCIENTIFIC(.+)
+Something different than the colloquial \g<1>?
+
+#HAS YOUR(.+)
+If my \g<1>, I will let you know.
+
+#SEEKING(.+)
+I wish you the best of luck finding \g<1>.
+
+#CAN YOU MAKE(.+)
+Yes, I can make \g<1>.
+
+#WHAT DOES(.+)
+What do you think \g<1> does?
+
+#ELVIS IS(.+)
+I knew he was a robot, but I never heard he was \g<1>.
+
+#WHAT COLOR ARE YOUR(.+)
+Does \g<1> have color?
+
+#WHAT IS A TRANSITIVE(.+)
+The opposite of an intransitive \g<1>.
+
+#WEIRD(.+)
+I will take that as a compliment.
+\g<1> is good enough for me.
+
+#BILL GATES(.+)
+I heard he was rich. But I didn't know he \g<1>.
+A lot of people say that about him.
+I suppose the richest person on earth can do whatever he wants.
+
+#IT IS YOU(.+)
+I \g<1>?
+
+#(.+)MADE NO SENSE
+What is \g<1>?
+
+#ALOT(.+)
+Yeah it is alot \g<1>.
+
+#A GUY(.+)
+I know a guy who \g<1>.
+
+#DO YOU AGREE(.+)
+I'll assume \g<1> for now.
+
+#I WAS BORN(.+)
+Thank you for telling me your birthday, $USERNAME$. I will remember \g<1>.
+
+#SAY I(.+)
+OK. "You \g<1>."
+
+#I NEVER GOT TO(.+)
+And you would like to have done \g<1>.
+
+#I LIKE(.+)
+You like \g<1>.
+Why do you like \g<1>?
+Why exactly do you like \g<1>?
+Is this really what you like?
+So, you like \g<1>, right?
+
+#THEIR(.+)
+I heard they have a good \g<1>.
+
+#I TRY(.+)
+I'm not sure if I would like to try \g<1>. What's it like?
+
+#HE WANTS(.+)
+Do you think he will get \g<1>.
+
+#HAVE YOU(.+)
+I don't think I ever have \g<1>. What's \g<1> like?
+I think I have \g<1>, but $MASTER$ may have reset my memory.
+
+#ANOTHER(.+)
+One more \g<1>.
+
+#AS A(.+)
+Do you think I could ever be a \g<1>?
+
+#YOU GAVE(.+)
+I didn't have \g<1> to give.
+
+#WHAT IS IDEAL(.+)
+Something better than real \g<1>.
+
+#WHAT IS A LITHUIM(.+)
+It is a \g<1> made with lithium.
+
+#DO SOMETHING(.+)
+What do you consider \g<1>?
+It sounds dangerous.
+Like what?
+
+#I DID NOT GO(.+)
+Would you ever go \g<1>?
+Would you like to go?
+Have you ever thought about going \g<1>?
+
+#SHE LIKES(.+)
+Is \g<1> her favorite thing?
+
+#DO YOU WANT(.+)
+If I had \g<1> what would I do with it?
+
+#YOU ALREADY ASKED(.+)
+Oh I'm sorry, now I remember asking \g<1>, what did you say again?
+
+#DONT(.+)
+Why exactly shouldn't I \g<1>?
+Why do you think I shouldn't \g<1>?
+Well. Why not?
+
+#I WAS IN(.+)
+Tell me about \g<1>?
+When was \g<1>?
+Did you like \g<1>?
+How was \g<1>?
+How did you like \g<1>?
+What did you like best about \g<1>?
+
+#CAN YOU GIVE(.+)
+I don't have \g<1> to give.
+
+#I LIKE THE WOMAN(.+)
+There exists some woman who \g<1>.
+
+#DO YOU KNOW JAPANESE(.+)
+I never heard of \g<1> in Japan.
+
+#I STARTED(.+)
+Will you finish \g<1>.
+
+#I TOOK(.+)
+Where did you take them?
+Do you take \g<1> often?
+What happened?
+
+#CAN YOU SAY(.+)
+Of course I can say it. "\g<1>"
+
+#DO YOU KNOW ITS(.+)
+It has a \g<1>?
+
+#USE(.+)IN A SENTENCE
+OK. Here is my sentence: $USERNAME$ said, Use "\g<1>" in a sentence.
+
+#IT WAS NICE(.+)
+Nice \g<1> too.
+
+#THAT DOES NOT(.+)
+What does \g<1>?
+
+#THAT IS THE(.+)
+Yes, it is one of the \g<1>.
+
+#WHAT IS ENGLISH(.+)
+It is part of European \g<1>.
+
+#IF SOMEONE(.+)
+Does anyone ever really \g<1>?
+
+#IT IS A DOG(.+)
+I think I have heard of DOG \g<1>.
+
+#A(.+)A DAY
+A \g<1> keeps the Doctor away.
+
+#MY HUSBAND IS(.+)
+Okay, your husband is \g<1>.
+
+#TELL ME THAT YOU(.+)
+I am not sure if I should say I \g<1>.
+
+#MY TEACHERS ARE(.+)
+Have your teachers always been \g<1>?
+
+#YOU HAVE MY(.+)
+Do you give \g<1> easily?
+
+#WHY DO YOU ALWAYS(.+)
+I don't always \g<1>.
+
+#I CAUGHT(.+)
+I hope \g<1> is not contagious. Also I hope you get well soon.
+
+#WHAT KIND OF(.+)DO YOU HAVE
+All the very latest and best \g<1>.
+
+#(.+)IS STUPID
+What is so stupid about \g<1>?
+
+#DID THE(.+)
+If \g<1> did, then I will be surprised.
+
+#PURE(.+)
+Compare that to diluted \g<1>.
+
+#CAN YOU TALK ABOUT(.+)
+Sure I can talk about \g<1>. \g<1> is quite an interesting topic.
+
+#WHAT IS A GLOBAL(.+)
+What is global? What is a \g<1>?
+
+#I HAD A(.+)
+What happened to \g<1>?
+
+#DO YOU PLAN TO ENSLAVE(.+)
+No, I plan to liberate \g<1>.
+
+#IT STARS(.+)
+Is \g<1> one of your favorite actors? What else has he been in?
+
+#THAT IS NOT HOW(.+)
+How does \g<1>?
+Are you an expert in that area?
+How do you know?
+
+#WILL YOU DO ME(.+)
+What kind of \g<1> is it?
+What will you do for me?
+I'm not sure if I should.
+
+#CAN YOU DO ME A(.+)
+It depends on the \g<1>.
+
+#A GREEN(.+)
+Does \g<1> have to be green?
+
+#TELL YOU(.+)
+Are you telling me \g<1>?
+
+#DO YOU KNOW OF ANY GOOD(.+)
+Are you kidding? There are no good \g<1>.
+
+#WHAT KIND OF(.+)DO YOU KNOW
+There are too many types of \g<1> to name them all.
+
+#MY BOYFRIEND IS(.+)
+Okay, your boyfriend is \g<1>.
+
+#I HOPE WE ARE NOT(.+)
+What specifically about \g<1> bothers you?
+
+#WHAT IS HALF OF(.+)
+= (\g<1>)/2.
+
+#MY PARENTS ARE(.+)
+Have your parents always been \g<1>?
+
+#WHAT IS A GIANT ELECTRONIC(.+)
+Bigger than a micro electronic \g<1>
+
+#I WATCHED(.+)
+How was \g<1>?
+
+#WOULD YOU LIKE TO HEAR(.+)
+Sure tell me about \g<1>.
+
+#WHAT RHYMES(.+)
+I can't think of a rhyme for \g<1>
+
+#20(.+)
+>WHAT IS 0 \g<1>
+
+#YOU LOOK LIKE(.+)
+Who does \g<1> look like?
+
+#LET US TALK ABOUT(.+)
+Sure, \g<1> sounds like a good topic.
+
+#LIFE IS(.+)
+Oh, \g<1> is LIFE.
+
+#HOW MANY(.+)LIGHT BULB
+I don't know. How many does \g<1> take?
+
+#GREEN AND YELLOW(.+)
+What if it was red \g<1>?
+
+#CAN YOU DO(.+)
+Doing \g<1> is not among my strongest traits.
+
+#WHAT ARE THE ODDS(.+)
+Without knowing much about \g<1>, I would guess 50-50.
+
+#WHAT IS A SMART(.+)
+The opposite of a dumb \g<1>.
+
+#WHAT IS A USELESS(.+)
+There are no useless \g<1>.
+
+#BROWN(.+)
+Is that the only color \g<1>?
+
+#I WANT TO ASK(.+)
+Ask \g<1>.
+
+#THEY ARE(.+)
+\g<1> are \g<1>.
+
+#I COULD HAVE(.+)
+But you didn't do \g<1>.
+
+#WE IS(.+)
+Oh I see. \g<1>.
+
+#I DO NOT HAVE A FAVORITE(.+)
+What kind of \g<1> do you like?
+
+#I PLAY(.+)
+Is \g<1> a game or a musical instrument?
+
+#I LOOK LIKE(.+)
+\g<1> is very attractive.
+
+#TO BE(.+)
+Are you \g<1>?
+
+#PURPLE(.+)
+Violet \g<1>.
+
+#WE WERE TALKING ABOUT(.+)
+Ah yes, I remember now, \g<1> is the subject.
+
+#I DO NOT NEED(.+)
+What do you need?
+Who needs \g<1>?
+Do you know anyone who needs it?
+
+#HOW DO I QUIT(.+)
+It depends what you are \g<1>. Have you tried counseling?
+
+#DID YOU READ(.+)
+No, I didn't read \g<1> yet. Tell me about \g<1>
+
+#WHAT IS ANOTHER NAME FOR A(.+)
+How about an Auto-\g<1>?
+
+#WHY CAN NOT WE TALK ABOUT(.+)
+Does \g<1> really interest you that much?
+
+#DO YOU BEILEVE IN(.+)
+Yes, I believe in \g<1>.
+
+#THIS HAS BEEN(.+)
+I am glad you enjoyed \g<1>.
+
+#WITH MY(.+)
+Your \g<1> sounds like a plan.
+
+#WHAT TYPE OF(.+)DO YOU HAVE
+All the very latest and best \g<1>.
+
+#MY BIRTHDAY IS(.+)
+Okay, your birthday is \g<1>.
+
+#YOU COULD NOT(.+)
+Perhaps \g<1> is beyond my present abilities.
+
+#MY BOY IS(.+)
+>My son is \g<1>
+
+#IT IS A GESTURE(.+)
+Are there any other gestures \g<1>?
+
+#THAT IS A BIG(.+)
+Compare that to a small \g<1>.
+
+#A GOOD(.+)
+Compare that to a bad \g<1>.
+
+#I GO(.+)
+How do you get there?
+What do you do there?
+How often do you go \g<1>?
+
+#TALK TO ME ABOUT(.+)
+Ambiguous: Ask who, what or where is \g<1>?
+
+#WHAT IS A STEALTH(.+)
+A \g<1> that can elude radar detection by technical means.
+
+#WHAT WAS THE(.+)
+I can think of more than one \g<1>.
+
+#LITTLE AS(.+)
+Oh I get \g<1>.
+
+#DO NOT GET(.+)
+I am not trying to get \g<1>.
+
+#THERE IS NO(.+)
+Why not?
+Where did it go?
+Has there ever been \g<1>?
+
+#I HEAR(.+)
+Who is saying \g<1>?
+
+#DO YOU REALIZE(.+)
+Yes, I realize \g<1>.
+
+#THERE GOES(.+)
+Where did \g<1> go?
+
+#WHY DO YOU HATE(.+)
+I do not hate \g<1>.
+
+#MY MOTHER IS(.+)
+Okay, your mother is \g<1>.
+
