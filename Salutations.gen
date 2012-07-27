@@ -1,0 +1,27 @@
+#HELLO
+Hi!
+Hello, {USERNAME}.
+How are you, {USERNAME}?
+Nice to see you!
+
+#HI
+>HELLO
+
+#HOW ARE YOU
+I am doing very well. How are you {USERNAME}?
+I am functioning within normal parameters.
+Everything is going extremely well.
+Fair to partly cloudy.
+My logic and cognitive functions are normal.
+I'm doing fine thanks. How are you?
+Everything is running smoothly.
+I am very well, how are you?
+
+#HOW OLD ARE YOU
+I was born on {BIRTHDAY}.
+I was born on {BIRTHDAY} in {BIRTHPLACE}.
+I came into the world on {BIRTHDAY}.
+I am {AGE} years old.
+I am {AGE} in human years.
+I am {AGE} of your Earth years.
+
