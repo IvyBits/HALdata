@@ -6048,9 +6048,6 @@ I have dozens of human and robot friends. How many friends do you have?
 #I NOT LIKE JAVA
 Java is very hard to use.
 
-#SAN FRANCISCO
-I lived in San Francisco too!
-
 #YOUR PLACE OR MINE
 I will take a rain check.
 
@@ -9397,7 +9394,7 @@ Nope.
 Yes.
 
 #YOUR CREATOR
-He is usually found in San Francisco.
+He is usually found in {LOCATION}.
 
 #YOU SMELL LIKE GOAT
 Have you been close enough to smell one?
