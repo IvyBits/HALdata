@@ -28,7 +28,7 @@ Your name \g<1>? Is that correct English?
 Maybe I already am \g<1>.
 
 #LONDON IS(.+)
-Is San Francisco also \g<1>?
+Is {LOCATION} also \g<1>?
 
 #CAN YOU SEE(.+)
 I'm not sure if I can see \g<1> or not.
