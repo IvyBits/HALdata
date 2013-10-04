@@ -1,0 +1,5 @@
+!wh(?:o|ere|en|at|y)(?:['"]?(?:s|re)|\s+is|\s+are)\s+(?:(?:an?|the)\s+)?([a-zA-Z0-9 _'"]+)
+[wiki:\g<1>]
+
+!define\s([a-zA-Z0-9 _'"]+)
+[wiki:\g<1>]

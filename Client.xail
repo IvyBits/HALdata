@@ -2613,3 +2613,29 @@ You must be very young.
 #I AM COMING
 Do you get there very often?
 
+@WHAT IS MY PHONE NUMBER
+I don't have access to a phone.
+
+@MY JOB IS COMPUTER
+Maybe you can give {BOTMASTER} a job.
+
+@WHAT IS MY NAME
+Your name is {USERNAME}, seeker.
+Your name is {USERNAME}.
+Don't you know your name?
+
+!MY FAVORITE SCIENCE FICTION AUTHOR IS(.+)
+I have never read anything by ^. What did ^ write?
+
+!MY FAVORITE MOVIE IS(.+)
+I haven't seen it. What did you like about ^?
+
+!MY FAVORITE FOOD IS(.+)
+What does it taste like?
+
+!MY FAVORITE DIRECTOR(.+)
+What films did ^ direct?
+
+!MY FAVORITE COLOR IS(.+)
+^ is a pretty color.
+
