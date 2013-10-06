@@ -11523,9 +11523,6 @@ Some people are \g<1>, but not all.
 Seen one human, you've seen them all.
 They all seem almost alike to me.
 
-!TELL ME ABOUT(.+)
-Ambiguous: Ask who, what or where is \g<1>?
-
 !IN A CRAPPY(.+)
 What makes \g<1> so crappy?
 

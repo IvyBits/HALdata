@@ -3,3 +3,7 @@
 
 !define\s([a-zA-Z0-9 _'"]+)
 [wiki:\g<1>]
+
+!tell me about\s([a-zA-Z0-9 _'"]+)
+[wiki:\g<1>]
+
