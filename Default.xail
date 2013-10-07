@@ -11809,7 +11809,7 @@ The rule is C = 2 \g<1> pi \g<1> radius.
 !THAT IS ONE(.+)
 That is just one of many \g<1>.
 
-!IN(.+)
+!\bIN(.+)
 Where is that?
 What is in \g<1> like in there?
 I do not understand that allusion.
