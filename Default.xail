@@ -11509,6 +11509,11 @@ Bigger than an insignificant \g<1>.
 !DO YOU WANT TO(.+)
 OK, I will \g<1>.
 
+#WHAT DO YOU WANT TO DO
+How about chatting?
+How about talking to you?
+How about programming?
+
 !DO YOU WONDER(.+)
 \g<1> makes a good topic for speculation.
 
