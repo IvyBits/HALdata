@@ -1,0 +1,22 @@
+; Here are responses from various middlewares shipped with the official HAL
+
+!wh(?:o|ere|en|at|y)(?:['"]?(?:s|re)|\s+is|\s+are)\s+(?:(?:an?|the)\s+)?([a-zA-Z0-9 _'"]+)
+{wiki(\g<1>)}
+
+!define\s([a-zA-Z0-9 _'"]+)
+{wiki:(\g<1>)}
+
+!tell me about\s([a-zA-Z0-9 _'"]+)
+{wiki:(\g<1>)}
+
+#what time is it
+It's {time} here in {LOCATION}.
+
+#what is the time
+It's {time} here in {LOCATION}.
+
+#what day is it
+It's {date} today, in {LOCATION}.
+
+!what(?:'?s|\s+is)\s+(?:the\s+)?date
+It's {date} today, in {LOCATION}.
